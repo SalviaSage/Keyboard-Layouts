@@ -33,4 +33,4 @@ a̾ ạ a͚ a͐ a̱ å a̅ á â
 
 (4) Other than these main differences, the base small case letters are exactly the same as in English, except for the i and the j which have their dots removed.
 This is because the TPA makes use of "above combining diacritics" as it is shown above and the letter g is changed from U+0067 to "script g" U+0261.
-That is ' g ' into ' ɡ ' to prevent it from being shown as the double story g as seen here. Outside of those three differences, the other letters are the same.
+That is '` g '` into ' ɡ ' to prevent it from being shown as the double story g as seen here. Outside of those three differences, the other letters are the same.
