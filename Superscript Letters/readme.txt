@@ -15,5 +15,5 @@ I personally think that the full set should be in Unicode. Right now, neither se
 and the capital case superscript letters missing 7 letters, C,F,Q,S,X,Y,Z.
 
 Also, has full number support:
-⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
-0 1 2 3 4 5 6 7 8 9
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁻ ⁺ ⁽ ⁾
+0 1 2 3 4 5 6 7 8 9 - + ( )
