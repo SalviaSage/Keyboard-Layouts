@@ -16,3 +16,5 @@ There, you will see a list of keyboards that are available for that language.
 Just click on the keyboard layout that you want to remove, then you will get a button that says "Remove."
 
 The keyboard layout should then be deleted immediately and you won't see it anymore in the language bar.
+
+Also, it seems you have to restart the computer to be able to use your installed keyboard layouts.
