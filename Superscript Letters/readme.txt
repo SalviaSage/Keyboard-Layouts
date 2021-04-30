@@ -13,3 +13,7 @@ It also has capital letter support for the above letters, C,F,Q,S,X,Y,Z are the 
 This is something that I can not fix but Unicode can possibly fix it from their end if they choose to do so.
 I personally think that the full set should be in Unicode. Right now, neither set is full with the smallcase superscript letters missing the letter "q"
 and the capital case superscript letters missing 7 letters, C,F,Q,S,X,Y,Z.
+
+Also, has full number support:
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+0 1 2 3 4 5 6 7 8 9
