@@ -8,7 +8,7 @@ This repository contains the installable keyboards that I created for Win10.
 If you have the "UnicodeInput" program running in the background, then you can type Unicode characters very easily.  
 **ALT + Numpad+ :** Enter Unicode "code" and hit enter to type that unicode character.
 
-How to uninstall / remove keyboard layouts?
+**How to uninstall / remove keyboard layouts?**
 Click on the name of the language on the language bar such as "ENG US"
 Then, click on "Language Preferences"
 There, select the language that that keyboard layout is associated with and click on "Options"
