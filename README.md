@@ -5,7 +5,7 @@ This repository contains the installable keyboards that I created for Win10.
 **WINKEY + SPACE:** Cycles all of the keyboard layouts, across languages as well.  
 **ALT+SHIFT:** Cycles languages, not the keyboard layouts.
 
-If you have the "UnicodeInput" program running in the background, then you can type Unicode characters very easily.
+If you have the "UnicodeInput" program running in the background, then you can type Unicode characters very easily.  
 **ALT + Numpad+ :** Enter Unicode "code" and hit enter to type that unicode character.
 
 How to uninstall / remove keyboard layouts?
