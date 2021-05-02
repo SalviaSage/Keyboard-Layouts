@@ -1,4 +1,4 @@
-Layout v4.0 for the TPA typable method on Windows 10.
+TPA Keyboard Layout v4.0 for the TPA typable method on Windows 10.
 
 This is the typable keyboard layout for the phonetic alphabet which I created which can be found here:
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet
@@ -52,13 +52,13 @@ This is because the TPA makes use of "above combining diacritics" as it is shown
 (10) The font you are supposed to use with this alphabet is a font called CODE2000.
 Which you can find it, being hosted by me, here: https://github.com/SalviaSage/Fonts-Repository
 
+This seems to be the best font, but it is not perfect.
+
 (11) You also get a whole set of brackets, where the bracket keys normally are. And even more punctuation characters where the punctuation characters are located.
 
 (12) The ejective, ingressive and implosive markers are located at the questioon mark key.
 
 (13) There are three more "r" themed keys above the "r" key, about 14 "r" keys, and that much is necessary.
-
-This seems to be the best font, but it is not perfect.
 
 Layout Screenshot Readme:
 The following colors in the screenshot corresponds to the following keys.
