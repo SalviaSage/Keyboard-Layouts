@@ -8,10 +8,10 @@ The interesting thing with my typing systems is that all the letters and the sou
 
 I did however create one NON-QWERTY keyboard layout called the "HALMAK" keyboard layout. I am a fan of this keyboard layout as I believe that it is a very efficient keyboard layout with the vowels located on the right side for typing with the right hand which I think would be preferable for people who are right handed such as myself. This is similar in comparison to the DVORAK keyboard layout which has the vowel letters on the left side of the keyboard, which is perhaps better for people who are left handed. This keyboard layout, HALMAK, is also good because it moves some of the punctuation keys (non-letter keys) that are located on the right, bottom side of the QWERTY keyboard to the center of the keyboard layout. This is the only keyboard layout I know that does that. This would help in making sure that the hands are more separate apart from each other and do not stretch out as far and that the letters are closer to one another. That feature itself might have been the idea of the AI that helped place the keys there in that position, which does make sense. It is also the only keyboard layout I know that was designed by an AI. I am not responsible for that project and did not create that layout, however I did create an installable keyboard layout for that layout.
 
-The GitHub page for that project is located here:
-https://github.com/MadRabbit/halmak
-This GitHub page also hosts installable keyboard layouts for this layout:
-https://github.com/pguerin3/halmak4windows#:~:text=Halmak%20maps%20to%20the%20Halmak%20layout%20for%20normal,in%20their%20original%20Qwerty%20positions%20on%20the%20keyboard.
+The GitHub page for that project is located here:  
+https://github.com/MadRabbit/halmak  
+This GitHub page also hosts installable keyboard layouts for this layout:  
+https://github.com/pguerin3/halmak4windows#:~:text=Halmak%20maps%20to%20the%20Halmak%20layout%20for%20normal,in%20their%20original%20Qwerty%20positions%20on%20the%20keyboard.  
 
 Although, that layout itself might be better in its key placement, switching from a keyboard layout that is in your muscle memory to something that isn't will slow down your typing speed so very much, to the point that you would have to visually look at the keyboard in order to type. People who make the switch do eventually improve over time as it sets into their muscle memory, which of course takes some time. This makes the switch simply not worth it to so many people including myself. And, even if you do master such a keyboard layout. You will still find the QWERTY keyboard everywhere, as it is the most popular keyboard layout in the world.
 
