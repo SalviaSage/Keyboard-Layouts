@@ -65,3 +65,11 @@ if it is turned off, we go to the next cells by using the arrow keys on the keyb
 ***How to lock the keyboard or the mouse keys?***
 This free program is definitely what you are looking for:
 https://www.sordum.org/7921/bluelife-keyfreeze-v1-4-block-keyboard-and-mouse/
+
+***What is a faster way to switch between keyboard layouts?***
+You can skip choosing a layout from the menu by directly switching to that keyboard layout by setting up a shortcut to that layout.
+This won't give you any visuals, but it will immediately switch to that layout upon hitting those hotkeys. It is the fastest way of going between different layouts.
+To set up such hotkeys, openm the settings window from the start menu or by hitting WIN KEY + I and go to "Time & Language", then click on "Language" on the menu to the left.
+Then, click on "keyboard", then click on "Input language hot keys". There, you can see a list of all the keyboard layouts that are installed.
+Select a layout and click on "Change Key Sequence" and pick which key keys you want to associate with that layout. I recommend using the CTRL + ~ key for your default keyboard layout, likely the US QWERTY layout, and the CTRL + # keys for fast switching to other layouts.
+These seem to not interfere with other programs when pressed and yet quickly switch between keyboard layouts.
