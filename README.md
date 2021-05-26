@@ -45,7 +45,7 @@ There is also the "MouseKeys" feature, which basically allow us to use the mouse
 If you have the "UnicodeInput" program running in the background, then you can type Unicode characters very easily.  
 **ALT + Numpad+ :** Enter Unicode "code" and hit enter to type that unicode character.
 
-***How to uninstall / remove keyboard layouts?***
+***How to uninstall / remove keyboard layouts?***  
 Click on the name of the language on the language bar such as "ENG US"
 Then, click on "Language Preferences"
 There, select the language that that keyboard layout is associated with and click on "Options"
@@ -56,17 +56,17 @@ The keyboard layout should then be deleted immediately and you won't see it anym
 
 Also, it seems you have to restart the computer to be able to use newly installed keyboard layouts.
 
-***What does the "scroll lock" key do?***
+***What does the "scroll lock" key do?***  
 This key is used by certain programs to make it so that horizontal scrolling is triggered.
 A good example is the LibreOFfice Calc and the Microsoft Excel programs. I
 If scroll lock is turned on, we scroll horizontally when we hit the arrow keys on the keyboard.
 if it is turned off, we go to the next cells by using the arrow keys on the keyboard.
 
-***How to lock the keyboard or the mouse keys?***
+***How to lock the keyboard or the mouse keys?***  
 This free program is definitely what you are looking for:
 https://www.sordum.org/7921/bluelife-keyfreeze-v1-4-block-keyboard-and-mouse/
 
-***What is a faster way to switch between keyboard layouts?***
+***What is a faster way to switch between keyboard layouts?***  
 You can skip choosing a layout from the menu by directly switching to that keyboard layout by setting up a shortcut to that layout.
 This won't give you any visuals, but it will immediately switch to that layout upon hitting those hotkeys. It is the fastest way of going between different layouts.
 To set up such hotkeys, openm the settings window from the start menu or by hitting WIN KEY + I and go to "Time & Language", then click on "Language" on the menu to the left.
