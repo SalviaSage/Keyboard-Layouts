@@ -1,4 +1,4 @@
-TPA Keyboard Layout v4.0 for the TPA typable method on Windows 10.
+TPA Keyboard Layout v4.5 for the TPA typable method on Windows 10.
 
 This is the typable keyboard layout for the phonetic alphabet which I created which can be found here:
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet
