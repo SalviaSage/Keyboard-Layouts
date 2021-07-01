@@ -1,4 +1,4 @@
-Adds the capacity to type superscript letters. they are basically miniscule letters that are written on the bottom side of a line
+Adds the capacity to type subscript letters. They are basically miniscule letters that are written on the bottom side of a line
 as opposed to "superscript" letters which is the same thing but written on the above side of a line.
 
 a b c d e f g h i j k l m n o p q r s t u v w x y z
