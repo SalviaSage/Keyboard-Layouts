@@ -45,6 +45,6 @@ Doesn't really have all of the Vedic extensions except for the stress symbols li
 
 The layout, however, is always subject to change and can be improved later.
 
-That aside, I am proud in having created this alphabet and it also thought me that the Windows 10 computer and Unicode
-has some interesting built in features for handling typing this script. That was not done by me and the credit goes to those
-who have done such an excellent job in allowing us to type in this alphabet.
+That aside, I am proud in having learned how to read this alphabet and then going on to create an easy typable method for it
+It also taught me that the Windows 10 computer and Unicode has some interesting built-in features for typing this script.
+That was not done by me and the credit goes to those who have done such an excellent job in allowing us to type in this alphabet.
