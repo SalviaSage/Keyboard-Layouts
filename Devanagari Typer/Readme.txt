@@ -1,4 +1,4 @@
-Version 2: 2021-05-09
+Version 4: 2021-07-03
 
 I created this alphabet, after having created the same kind of thing for Greek.
 It is an easy way to type Devanagari, and does not require retraining your muscle memory.
@@ -29,7 +29,7 @@ The dollar sign is also replaced with the Rupee sign. Also if you hit caps lock 
 The F key is the "viraam" key and is also used to make conjunct consonants.
 The "Zero-Width Joiner" is also here. It is supposed to help with the conjunct characters, but the viraam seems to do the job just fine most of the time.
 
-The X key has the devanagri abbreviation symbol as well as some vedic stress markers.
+The X key has the devanagri letters ड़ ढ़ .
 
 This form of the letter "D" is also in `ॸ` and you can type it by hitting SHIFT+ CTRL + ALT + D or Shift + Right Alt + D.
 
@@ -37,7 +37,9 @@ The retroflex "L" is also at the position of Capslock + "L", even though this is
 
 The "danda" and the "double danda" are at the period key. They serve the same function as the period in the Latin alphabet.
 
-The digits are also replaced with the devanagri digits `0123456789` such as `०१२३४५६७८९`
+The digits are also replaced with the devanagri digits.
+`0123456789` as `०१२३४५६७८९`
 
-Doesn't really have all of the Vedic extensions except for the stress symbols like the svarita, udatta and the anudatta which I thought was very imporant.
-But the layout is always subject to change and can be improved later.
+Doesn't really have all of the Vedic extensions except for the stress symbols like the svarita, udatta and the anudatta which I thought was imporant.
+
+The layout, however, is always subject to change and can be improved later.
