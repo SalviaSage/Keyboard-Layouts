@@ -44,3 +44,7 @@ The digits are also replaced with the devanagri digits.
 Doesn't really have all of the Vedic extensions except for the stress symbols like the svarita, udatta and the anudatta which I thought was imporant.
 
 The layout, however, is always subject to change and can be improved later.
+
+That aside, I am proud in having created this alphabet and it also thought me that the Windows 10 computer and Unicode
+has some interesting built in features for handling typing this script. That was not done by me and the credit goes to those
+who have done such an excellent job in allowing us to type in this alphabet.
