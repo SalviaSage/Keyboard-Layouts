@@ -4,6 +4,7 @@ I created this alphabet, after having created the same kind of thing for Greek.
 It is an easy way to type Devanagari, and does not require retraining your muscle memory.
 
 You should use the toggleable caps lock script, found here for better typing.
+https://github.com/SalviaSage/Autohotkey-Scripts-Repository/tree/master/Holdable%20Caps%20Lock
 
 CREDITS:https://ubcsanskrit.ca/keyboards.htm
 	http://www.kbdedit.com/manual/ex23_sanskrit_with_vedic_extensions.html
