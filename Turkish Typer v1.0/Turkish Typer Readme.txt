@@ -1,1 +1,0 @@
-This is just a simple and an easy way to type Turkish.
