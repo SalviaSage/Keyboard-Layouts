@@ -1,11 +1,12 @@
-TPA Keyboard Layout v4.9 for the TPA typable method on Windows 10.
+TPA Keyboard Layout v5.1 for the TPA typable method on Windows 10.
+Updated: 2021-07-04
 
 This is the typable keyboard layout for the phonetic alphabet which I created which can be found here:
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet
 
 It was really difficult to develop this alphabet and at first it wasn't easy to type with.
-This is because it has about 20 vowel letters and about 250 contoid letters.
-It has to have that many letters plus about 150 combining diacritics to support aditional functions.
+This is because it has about 20 vowel letters and currently 240 contoid letters.
+It has to have that many letters plus about 160 combining diacritics to support aditional functions.
 
 (1) Basically, the TPA is a caseless alphabet, so, the caps lock in its traditional use is useless. 
 Since the TPA has a lot of letters, we need to use the caps lock key as a modifier key in addition to the shift and ctrl+alt keys.
@@ -59,6 +60,8 @@ This seems to be the best font, but it is not perfect.
 (12) The ejective, ingressive and implosive markers are located at the questioon mark key.
 
 (13) There are three more "r" themed keys above the "r" key, about 14 "r" keys, and that much is necessary.
+
+(14) Shift+X types the solidus character.
 
 Layout Screenshot Readme:
 The following colors in the screenshot corresponds to the following keys.
