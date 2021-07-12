@@ -58,7 +58,7 @@ Also, it seems you have to restart the computer to be able to use newly installe
 
 ***What does the "scroll lock" key do?***  
 This key is used by certain programs to make it so that horizontal scrolling is triggered.
-A good example is the LibreOFfice Calc and the Microsoft Excel programs. I
+A good example is the LibreOffice Calc and the Microsoft Excel programs. I
 If scroll lock is turned on, we scroll horizontally when we hit the arrow keys on the keyboard.
 if it is turned off, we go to the next cells by using the arrow keys on the keyboard.
 
