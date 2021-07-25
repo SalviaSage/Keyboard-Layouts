@@ -1,12 +1,12 @@
-TPA Keyboard Layout v5.1 for the TPA typable method on Windows 10.
-Updated: 2021-07-04
+TPA Keyboard Layout v7.0 for the TPA typable method on Windows 10.
+Updated: 2021-07-25
 
 This is the typable keyboard layout for the phonetic alphabet which I created which can be found here:
 https://github.com/SalviaSage/Translingual-Phonetic-Alphabet
 
 It was really difficult to develop this alphabet and at first it wasn't easy to type with.
-This is because it has about 20 vowel letters and currently 240 contoid letters.
-It has to have that many letters plus about 160 combining diacritics to support aditional functions.
+This is because it has about 20 vowel letters and up to about 250 contoid letters.
+It has to have that many letters plus about 45 different combining diacritics to support aditional functions.
 
 (1) Basically, the TPA is a caseless alphabet, so, the caps lock in its traditional use is useless. 
 Since the TPA has a lot of letters, we need to use the caps lock key as a modifier key in addition to the shift and ctrl+alt keys.
@@ -42,11 +42,11 @@ We use combining diacritics instead. Such as combining diacritic letters. But, t
 (6) The numpad is being used for typing the combining diacritics of the TPA.
 This allows us to show various different co-articulations and phenomena.
 
-(7) Other than these main differences, the base small case letters are exactly the same as in English and are found at the same locations except for the i and the j which have their dots removed.
+(7) Other than these main differences, the base small case letters are exactly the same as in the QWERTY English US layout and are found at the same locations except for the i and the j which are there but without the dots (tittle) on top of them.
 
 This is because the TPA makes use of "above combining diacritics" as it is shown above.
 
-(8) Also, the letter g is changed from U+0067 to "script g" U+0261. That is '` g '` into ' ɡ ' to prevent it from being shown as the double story g as seen here. Outside of those three differences, the other letters are the same on the base layout.
+(8) Also, the letter g is changed from U+0067 to "script g" U+0261. That is 'g' into 'ɡ' to prevent it from being shown as the double story g as seen here. Outside of those three differences, the other letters are the same on the base layout.
 
 (9) Shift + vowel letter gives you a more broad, open version of the vowel while hitting the CAPS key gives you another vowel.
 
