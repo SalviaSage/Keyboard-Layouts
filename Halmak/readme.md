@@ -10,5 +10,7 @@ https://keyboard-design.com/letterlayout.html?layout=halmak-2-2.en.ansi#:~:text=
 
 https://github.com/MadRabbit/halmak
 
+If you want to try to re-train your muscle memory so you can use this layout, I would suggest this website, then you can also load
+the Halmak.tfl there so the website will know your custom layout configuration.
 https://type-fu.com/
 
