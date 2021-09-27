@@ -38,6 +38,7 @@ The retroflex "L" is also at the position of Capslock + "L", even though this is
 The "danda" and the "double danda" are at the period key. They serve the same function as the period in the Latin alphabet.
 
 The digits are also replaced with the devanagri digits `0123456789` such as `०१२३४५६७८९`
+But you can still type `0123456789` by pressing Caps Lock + Digit key.
 
 Doesn't really have all of the Vedic extensions except for the stress symbols like the svarita, udatta and the anudatta which I thought was very imporant.
 But the layout is always subject to change and can be improved later.
