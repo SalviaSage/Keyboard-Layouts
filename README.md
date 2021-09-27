@@ -23,7 +23,7 @@ I can not guarantee its correctness in versions below 21H1. It may have been cha
 
 **WINDOWS KEY + SPACE:** Cycles all of the keyboard layouts, across languages as well.  
 
-**ALT + LEFT SHIFT:** Cycles languages downwards, not the keyboard layouts.&nbsp
+**ALT + LEFT SHIFT:** Cycles languages downwards, not the keyboard layouts.  
 **ALT + RIGHT SHIFT:** Cycles languages upwards, not the keyboard layouts.
 
 **WINDOWS KEY + ;:** Windows key + the semi colon key opens the emoji menu where we can type emojis, kaomojis, emoticons and also various symbols and letters from Unicode.
