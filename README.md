@@ -13,6 +13,7 @@ https://github.com/MadRabbit/halmak
 This GitHub page also hosts installable keyboard layouts for this layout:  
 https://github.com/pguerin3/halmak4windows#:~:text=Halmak%20maps%20to%20the%20Halmak%20layout%20for%20normal,in%20their%20original%20Qwerty%20positions%20on%20the%20keyboard.  
 
+
 Although, that layout itself might be better in its key placement, switching from a keyboard layout that is in your muscle memory to something that isn't will slow down your typing speed so very much, to the point that you would have to visually look at the keyboard in order to type. People who make the switch do eventually improve over time as it sets into their muscle memory, which of course takes some time. This makes the switch simply not worth it to so many people including myself. And, even if you do master such a keyboard layout. You will still find the QWERTY keyboard everywhere, as it is the most popular keyboard layout in the world.
 
 Below is a keyboard typing guide and a hotkey guide for Windows 10 21H1 version.
@@ -32,6 +33,7 @@ I can not guarantee its correctness in versions below 21H1. It may have been cha
 Pressing it again will turn it off.
 
 
+
 **SHIFT KEY, pressed 5 times:** This will trigger a window which will ask you if you want to turn on the "sticky keys" functionality of Windows 10.
 
 **RIGHT SHIFT KEY, held down for 8 seconds:** This will trigger a window which will ask you if you want to turn on the "filter keys" functionality of Windows 10. If you hit yes, the "FilterKeys" icon will appear as a tray icon in the taskbar. If you want to turn it off again, you can again hold down the right shift key for 8 seconds.
@@ -44,6 +46,8 @@ There is also the "MouseKeys" feature, which basically allow us to use the mouse
 
 If you have the "UnicodeInput" program running in the background, then you can type Unicode characters very easily.  
 **ALT + Numpad+ :** Enter Unicode "code" and hit enter to type that unicode character.
+
+
 
 ***How to uninstall / remove keyboard layouts?***  
 Click on the name of the language on the language bar such as "ENG US"
