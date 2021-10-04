@@ -82,4 +82,5 @@ Once installed, these keyboard layouts are located in the C:\Windows\System32 an
 So, find the layout that you want to delete, and delete from there.
 
 Make sure to delete them from both the System32 and the SysWOW64 folders.
-Then, restart the computer.
+Then, sign out and back in or restart the computer.
+Same is true when we install the new keyboard layouts, you will have to sign out and back in or restart in order to use them.
