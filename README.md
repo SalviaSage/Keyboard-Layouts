@@ -75,3 +75,11 @@ To set up such hotkeys, openm the settings window from the start menu or by hitt
 Then, click on "keyboard", then click on "Input language hot keys". There, you can see a list of all the keyboard layouts that are installed.
 Select a layout and click on "Change Key Sequence" and pick which key keys you want to associate with that layout. I recommend using the CTRL + ~ key for your default keyboard layout, likely the US QWERTY layout, and the CTRL + # keys for fast switching to other layouts.
 These seem to not interfere with other programs when pressed and yet quickly switch between keyboard layouts.
+
+***What is the definitive way to delete custom keyboard layouts?***
+The keyboard layouts that I make with the program KBDEdit all have to start with the string KBDEdit.
+Once installed, these keyboard layouts are located in the C:\Windows\System32 and C:\Windows\SysWOW64 folders as dll files.
+So, find the layout that you want to delete, and delete from there.
+
+Make sure to delete them from both the System32 and the SysWOW64 folders.
+Then, restart the computer.
