@@ -84,3 +84,13 @@ So, find the layout that you want to delete, and delete from there.
 Make sure to delete them from both the System32 and the SysWOW64 folders.
 Then, sign out and back in or restart the computer.
 Same is true when we install the new keyboard layouts, you will have to sign out and back in or restart in order to use them.
+You can also install, uninstall or reinstall from the .exe file.
+
+How to set up the Text Services and Input Languages?
+Open the settings window and click "Time & Language", then click "language"
+then click "Spelling, typing & keyboard settings", then click "Advanced keyboard settings"
+then, click "Input language hot keys", then choose the "Advanced Key Settings" tab, then click
+"Change Key Sequence".
+Here, Switch Input Language should be set to "Left Alt + Shift" and Switch Keyboard Layout should be set to
+"Not Assigned", It should not be set to anything else because we already use the grave accent and the ctrl+shift
+for other things, the keyboard can already be changed wwith winkey+spacebar anyway, so it doesn't have to be set.
