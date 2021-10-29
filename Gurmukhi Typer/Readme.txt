@@ -5,14 +5,8 @@ So, the keyboard has more or less full representation of all of the Gurmukhi cha
 
 There are few differences between the two keyboards.
 
-One difference is that the Gurmukhi alphabet does not have the (श ) letter.
-That letter is where the "w" key is, in the Devanagari keyboard layout.
-
-However, it has two unique independent vowel forms called "ura" and "iri".
-
-And so, I put those vowel letters where the key "w" is.
-"ura" is the base key and the "iri" is the shift+base key.
-
-Other than that, there are few differences between the two that is not noteworthy.
+Most of the keys are the same places as to where the Devanagari letters are in the Devanagari keyboard layout that I made.
+I also created a new letter to write the 'ʒ' sound, 'ਜ਼਼', which can already be done in Devanagari, but not in Gurmukhi.
+I took the letter 'ਜ਼' and added one more dot under it.
 
 Have fun typing.
