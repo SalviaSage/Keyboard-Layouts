@@ -1,4 +1,4 @@
-Updated: 2021-10-30
+Updated: 2021-11-07
 
 TPA Keyboard Layout for the Translingual Phonetic Alphabet typable method on Windows 10/11.
 
@@ -52,5 +52,3 @@ https://brill.com/page/290?language=en
 (13) The ejective, ingressive and implosive markers are located at the question mark key.
 
 (14) There are three more "r" themed keys above the "r" key.
-
-(15) Caps Lock + 'X' gives you the solidus character and Caps Lock + Shift + 'X' gives you the reverse solidus character.
