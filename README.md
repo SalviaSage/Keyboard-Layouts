@@ -1,5 +1,5 @@
 # Keyboard-Layouts
-This repository contains the installable keyboards that I created for Windows 10.
+This repository contains the installable keyboards that I created for Windows 10/11.
 
 I came up with this idea after I created my own phonetic alphabet. I had a problem, I couldn't type this alphabet on Windows 10.
 So, using a computer program, I set out to create a keyboard typable method for my own alphabet based on the QWERTY keyboard layout that was already there on my keyboard. Soon enough, I brought the alphabet to a usable level, then I made even some more tweaks to it and adjusted the positions of the keys in comparison with the letters. After that, I said to myself, well it would be useful to be able to type additional alphabets and characters in support of various languages around the world. I then set out to create such typing systems. 
