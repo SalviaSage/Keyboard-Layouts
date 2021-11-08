@@ -1,4 +1,4 @@
-Version 7: 2021-10-28
+Version 8: 2021-11-08
 
 I created this alphabet, after having created the same kind of thing for Greek.
 It is an easy way to type Devanagari, and does not require retraining your muscle memory.
