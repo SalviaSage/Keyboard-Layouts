@@ -48,15 +48,28 @@ If you have the "UnicodeInput" program running in the background, then you can t
 
 
 ***How to uninstall / remove keyboard layouts?***  
-Click on the name of the language on the language bar such as "ENG US"
+1) Click on the name of the language on the language bar such as "ENG US"
 Then, click on "Language Preferences"
 There, select the language that that keyboard layout is associated with and click on "Options"
 There, you will see a list of keyboards that are available for that language.
 Just click on the keyboard layout that you want to remove, then you will get a button that says "Remove".
-
 The keyboard layout should then be deleted immediately and you won't see it anymore in the language bar.
 
-Also, it seems you have to restart the computer to be able to use newly installed keyboard layouts.
+2) Run the KBDEdit installer that was used to install the keyboard layout and click "uninstall".
+
+3) Also, search and find the keyboard layouts .dll file in the folders System32 and SysWOW64
+and delete those .dll files.
+
+That should be all there is in deleting a keyboard layout.
+Never delete any system .dll files or other files related to keyboard layouts that come with Windows.
+Never modify any registry entries that relate to those keyboard layouts.
+In this context, we are only interested in deleting the custom keyboard layouts that are made with KBDEdit.
+They are easily identified as such because of they start with "KBDEdit"
+
+4) Only after the uninstallation, install the new keyboard layout that you want to install.
+Don't install duplicates.
+
+Also, it seems you have to restart the computer to be able to use the newly installed keyboard layouts.
 
 ***What does the "scroll lock" key do?***  
 This key is used by certain programs to make it so that horizontal scrolling is triggered.
@@ -76,17 +89,7 @@ Then, click on "keyboard", then click on "Input language hot keys". There, you c
 Select a layout and click on "Change Key Sequence" and pick which key keys you want to associate with that layout. I recommend using the CTRL + ~ key for your default keyboard layout, likely the US QWERTY layout, and the CTRL + # keys for fast switching to other layouts.
 These seem to not interfere with other programs when pressed and yet quickly switch between keyboard layouts.
 
-***What is the definitive way to delete custom keyboard layouts?***
-The keyboard layouts that I make with the program KBDEdit all have to start with the string KBDEdit.
-Once installed, these keyboard layouts are located in the C:\Windows\System32 and C:\Windows\SysWOW64 folders as dll files.
-So, find the layout that you want to delete, and delete from there.
-
-Make sure to delete them from both the System32 and the SysWOW64 folders.
-Then, sign out and back in or restart the computer.
-Same is true when we install the new keyboard layouts, you will have to sign out and back in or restart in order to use them.
-You can also install, uninstall or reinstall from the .exe file.
-
-How to set up the Text Services and Input Languages?
+***How to set up the Text Services and Input Languages?***
 Open the settings window and click "Time & Language", then click "language"
 then click "Spelling, typing & keyboard settings", then click "Advanced keyboard settings"
 then, click "Input language hot keys", then choose the "Advanced Key Settings" tab, then click
