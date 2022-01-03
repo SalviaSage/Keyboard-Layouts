@@ -89,7 +89,7 @@ Then, click on "keyboard", then click on "Input language hot keys". There, you c
 Select a layout and click on "Change Key Sequence" and pick which key keys you want to associate with that layout. I recommend using the CTRL + ~ key for your default keyboard layout, likely the US QWERTY layout, and the CTRL + # keys for fast switching to other layouts.
 These seem to not interfere with other programs when pressed and yet quickly switch between keyboard layouts.
 
-***How to set up the Text Services and Input Languages?***
+***How to set up the Text Services and Input Languages?***  
 Open the settings window and click "Time & Language", then click "language"
 then click "Spelling, typing & keyboard settings", then click "Advanced keyboard settings"
 then, click "Input language hot keys", then choose the "Advanced Key Settings" tab, then click
