@@ -1,4 +1,4 @@
-Updated: 2021-11-07
+Updated: 2022-01-09
 
 TPA Keyboard Layout for the Translingual Phonetic Alphabet typable method on Windows 10/11.
 
