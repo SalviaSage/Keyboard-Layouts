@@ -8,5 +8,5 @@ Nuskhuri letters are located in the Goergian Supplement block while Asomtavruli 
 Asomtavruli is the capital case forms of the Nuskhuri letters.
 
 I decided it would be best to create two separate alphabets and did so.
-To write in Nuskhuri and Asomtavruli, also install the other program.
+To type in Nuskhuri and Asomtavruli, also install the other program.
 
