@@ -19,3 +19,6 @@ The letter 'ξ' 'ksi' is where the 'c' key is.
 The letter 'ψ' 'psi' is where the 'v' key is.
 The letter 'θ' 'theta' is where the 'y' key is.
 The letter 'ω' 'omega' is where the 'q' key is.
+
+Also, you can switch between typing in the Greek alphabet and the
+Latin alphabet by hitting the scroll lock key (kana lock key).
