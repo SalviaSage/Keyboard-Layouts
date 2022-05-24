@@ -38,7 +38,7 @@ The caps lock key is the "nuqta", it adds a single dot below the letter while th
 
 The Rupee sign is also where the dollar sign is. Also if you hit caps lock + 6 you get "Rs" which is rupees in letters.
 
-You can also type the Devanagari digits by pressing caps lock + number key on the keyboard, but not on the numpad!
+You can type the Devanagari digits by pressing the number keys on the keyboard, but not on the numpad!
 
 This is because the numpad now houses some common conjunct consonants, they can be hard to type, so I put them there for single key typing.
 The numbers can only be typed on the top part of the keyboard and not at numpad.
