@@ -24,3 +24,6 @@ The letter 'ω' 'omega' is where the 'w' key is.
 Also, you can switch between typing in the Greek alphabet and the
 Latin alphabet by hitting the scroll lock key (kana lock key).
 This will also allow you to use the numpad for typing numbers.
+
+In the combined version, the scroll lock does not give us the Latin keys.
+Instead it gives us the same keys, but in italics, this is also useful for math.
