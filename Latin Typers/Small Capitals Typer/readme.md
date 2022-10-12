@@ -5,7 +5,7 @@ This layout lets you type capital letters at the size of small-case letters such
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z  
 ᴀ ʙ ᴄ ᴅ ᴇ ꜰ ɢ ʜ ɪ ᴊ ᴋ ʟ ᴍ ɴ ᴏ ᴘ ꞯ ʀ ꜱ ᴛ ᴜ ᴠ ᴡ x ʏ ᴢ
 
-Out of these, only "Q" is problematic and does not seem to work. I can't fix this from my end.
+Out of these, only "Q" is problematic and does not seem to work. I can't fix this from my end.  
 (UPDATE: Issue with 'ꞯ' fixed on Windows 11 version 22H2.)
 
 And so, in this new version, which I call the alternate version, I got around the problem of the "Q" letter not displaying properly. I use the latin small letter o with ogonek, U+01EB, which makes it look like it's a small capital Q. Type it that way by hitting shift while caps lock is on.
