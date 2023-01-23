@@ -34,3 +34,6 @@ The italics version is the same thing as the regular version, except the letters
 
 In the combined version, the scroll lock does not give us the Latin keys.
 Instead it gives us the same greek letters, but in italics, this is also useful for typing math.
+
+In the Lunate Sigma version, we can type the lunate sigma by pressing shift+caps+s and shift+caps+c.
+We can also type it in the capital with caps or shift+c on the keyboard.
