@@ -26,8 +26,6 @@ So, 'C' is where 'S' is and so on. The letter 'Ч' is where the letter 'C' is.
 Capitalisation is done as normal. Caps lock and shift both work.
 
 The acute accent, which can be combined with vowels to mark stress is typed by pressing shift+capslock+backtick.
-The breve accent is typed by pressing shift+tab and it is necessary to type 1 extra letter found in Belarussian, ў.
-This can also be typed with the Cyrillic IME as a single letter instead of a composite letter if desired.
 
 Russian style quotation marks are where the quotation mark and semicolon keys are.
 Russian style "fir tree" quotation marks are where the less than and greater than sign keys are.
