@@ -37,8 +37,8 @@ There are also many variants of the letter 'i' all concentrated around the 'и' 
 Please look at the screenshot provided to see where all the keys are.
 
 Writes:	Russian
-		Ukrainian
-		Bulgarian
+	Ukrainian
+	Bulgarian
 
 Also, if you want to type in the Latin alphabet, hit the scroll lock key to switch between Latin and Cyrillic.
 This restores the default US keyboard and allows us to easily switch back and forth.
