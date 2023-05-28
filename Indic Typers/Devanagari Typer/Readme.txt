@@ -72,7 +72,7 @@ This state is saved and does not reset when switching between keyboard input met
 
 -----
 
-How to write the eyelash reph? 
+How to type the eyelash reph? 
 https://en.wikipedia.org/wiki/Balbodh#Eyelash_reph_/_raphar
 
 The eyelash reph / raphar (र्‍) is produced in Unicode by the sequence [ra र ] + [virāma ्] + [ZWJ] and [rra ऱ ]+ [virāma ्] + [ZWJ].
