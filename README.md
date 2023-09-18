@@ -78,7 +78,7 @@ If scroll lock is turned on, we scroll horizontally when we hit the arrow keys o
 if it is turned off, we go to the next cells by using the arrow keys on the keyboard.
 
 ***How to lock the keyboard or the mouse keys?***  
-This free program is definitely what you are looking for:
+This free program is definitely what you are looking for:  
 https://www.sordum.org/7921/bluelife-keyfreeze-v1-4-block-keyboard-and-mouse/
 
 ***What is a faster way to switch between keyboard layouts?***  
