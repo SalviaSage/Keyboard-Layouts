@@ -1,0 +1,3 @@
+• Caps lock has to be same as shift so that the typer can type the modified letters by hitting either key.
+• Back vowels come first, followed by modifier front vowels on the same key set.
+• Hitting Kana gives us Yenisei variants. That is, Yenisei variants all become primary.
