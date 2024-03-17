@@ -33,17 +33,17 @@ Fortunately, I found a character from vedic extensions that look just like the v
 This feature allows us to type the viraam where otherwise we can not, it looks identical in most fonts as I checked it.
 It should show appropriately on fonts that are designed for Malayalam.
 
-The Rupee sign is also where the dollar sign is. Also if you hit caps lock + 6 you get "Rs" which is rupees in letters.
+The Rupee sign is also where the percent sign is. Also if you hit caps lock + shift + 5 you get "Rs" which is rupees in letters.
 
 The numbers can only be typed on the numpad.
 You can also type the western numbers by pressing the scroll lock key to go back to the original Latin alphabet keyboard.
 
 The 'shift+spacebar' key is the "viraam" key and it is also used to make conjunct consonants.
-The "Zero-Width Joiner" is located at key "{" key.
-The "Zero-Width Non Joiner" is located at key "}" key.
+The "Zero-Width Joiner" is located at the shift + "{" key.
+The "Zero-Width Non Joiner" is located at the shift + "}" key.
 They are supposed to help with the conjunct characters, but the viraam seems to do the job just fine most of the time.
 
-The "danda" and the "double danda" are at the period key. Caps lock and shift caps lock.
+The "danda" and the "double danda" are at the "\" key above the enter key.
 They serve the same function as the full stop in the Latin alphabet and should preferably be used instead of the Latin full stop.
 
 -----
