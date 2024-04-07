@@ -2,7 +2,7 @@
 
 ;; Automatically fixes some typing mistakes related to vowel maatras.
 ;; Intended to be used alongside this keyboard layout program:
-;;
+;; https://github.com/SalviaSage/Keyboard-Layouts/tree/master/Indic%20Typers/Malayalam%20Typer
 ;; 16 Definitions.
 
 *C1OZ‖ാ‖SI‖En‖{U+0D05}‖malayalam letter a - Automatic Replace
