@@ -1,0 +1,46 @@
+JAPANESE TYPER DEVELOPMENT LOG:
+———
+At the "Low level editor" we just have to make sure that we have the following:
+
+base
+shift
+control
+shift+control
+
+kana
+shift+kana
+control+kana
+shift+control+kana
+
+We don't need altgr or other settings enabled.
+———
+Rule # 1 The Kana key (scroll lock) will make it switch from the default Hiragana to Katakana.
+
+Rule # 2 All the keys have to be set to "Unaffected by Caps Lock".
+
+Rule # 3 To prevent sending of Latin letters upon pressing the keys. The keys have to be set to the null character '0000' in the deadkey ist.
+This has to be done for all the other keys for which there is no combination, that is most of the keys.
+
+Rule # 4 the LATIN alphabet SMALLCASE letters are allotted to the HIRAGANA letters.
+Rule # 5 the LATIN alphabet CAPITAL letters are allotted to the KATAKANA letters.
+Rule # 6 the GREEK alphabet SMALLCASE letters are alloted to the SHIFT keys next to the HIRAGANA letters.
+Rule # 7 the GREEK alphabet CAPITAL letters are alloted to the KANA+SHIFT keys next to the KATAKANA letters.
+This is necessarry to prevent characters overriding each other.
+Rule #8 Characters that are typed by pressing shift do not need to be nulled,
+We just want to null the base characters.
+———
+Basically. This makes it so that the corresponding small letters of letters can be typed just by pressing the shift key.
+It also makes it so that the caps lock key is practically disabled. Which of course serves no purpose here because there is no case.
+The scroll lock key is a good method for switching between alphabets instead of Caps Lock. It is less problematic in alphabets with no case.
+These methods are also good ways to develop dual alphabet layouts that do have case.
+———
+The missing syllables all have to be nulled. most specifically, wu, ye and yi.
+———
+The letters have to be nulled to themselves so that Latin letters will not be sent.
+For example, if the typer presses (w) and (w) they type 'ww'.
+Assigning (w) to "null" makes it so that nothing is sent or typed instead.
+These assignments have to be done in the deadkey list.
+After the assignments are done on the list each key has to be checked in the preview window to ensure that letters are nulled correctly.
+———
+A Separate .KBE file has to be made for the halfwidth Katakana so that half-width katakana can be typed as such.
+It has to be switched to from the language panel for control.

@@ -1,0 +1,5 @@
+Japanese Kana Typer Version History;
+
+1.0 (May 20, 2024)
+	Upload and release of the first version of Japanese Typer.
+It does work but there may be some integration and recognition issues from Windows.
