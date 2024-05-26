@@ -1,0 +1,4 @@
+Arabic-Persian Typer Version History;
+
+1.0 (May 26, 2024)
+	Upload and release of the first version of Arabic-Persian Typer.
