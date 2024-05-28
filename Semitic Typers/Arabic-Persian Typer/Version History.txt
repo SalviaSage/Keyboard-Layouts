@@ -1,0 +1,9 @@
+Arabic-Persian Typer Version History;
+
+1.0 (May 26, 2024)
+	Upload and release of the first version of Arabic-Persian Typer.
+
+1.1 (May 26, 2024)
+	Arabic letter "veh" removed from the "W" key, it is now only at the "F" key.
+	Arabic letter "hah" added to the capslock + "H" position.
+	Further changes and optimisations to the top row diacritics.
