@@ -38,12 +38,12 @@ Pressing it again will turn it off.
 
 SHIFT KEY, pressed 5 times: This will trigger a window which asks you if you want to turn on the "sticky keys" functionality of Windows 10.
 
-RIGHT SHIFT KEY, held down for 8 seconds:
+	RIGHT SHIFT KEY, held down for 8 seconds:
 This will trigger a window which asks you if you want to turn on the "filter keys" functionality of Windows 10.
 If you hit yes, the "FilterKeys" icon will appear as a tray icon in the taskbar.
 If you want to turn it off again, you can again hold down the right shift key for 8 seconds.
 
-NUM LOCK KEY, held down for 5 seconds:
+	NUM LOCK KEY, held down for 5 seconds:
 This will trigger a window which asks you if you want to turn on the "toggle keys" functionality of Windows 10.
 This makes it so that a sound is played by windows when the caps lock, num lock or scroll lock keys are pressed.
 
