@@ -1,0 +1,25 @@
+Open settings and go to "Time & language".
+Select "Language & region" and click "Add a language".
+From here, you can see the list of languages that Microsoft Windows 11 supports.
+Pick the language that you want to install such as Spanish (Mexico) or Spanish (Spain).
+There may be two or more entries for the same language.
+I recommend picking only one of them, for example Spanish (Mexico) and not Spanish (Spain).
+
+You can not translate Windows 11 to that language and use it in that language, unless you download the "language pack".
+
+If you don't want to translate Windows 11 to another language but want to be able to use that target language, do not install the "language pack".
+To be able to type in the target language, use text to speech features, and handwriting features, install everything except the "language pack".
+
+Also, do not select "Set as my Windows display language".
+This allows us to preserve our own language Windows while giving us better options for using other languages in Windows.
+
+Also, make sure to install fonts that Microsoft provides.
+
+​	How to download and use more fonts with Windows?
+
+Go to the "Settings" window.
+Then click "Personalization" and click "Fonts".
+Click "Download fonts for all languages".
+Before hitting this it says something like "74 fonts found".
+Then, after downloading the fonts, it says something like "169 fonts found".
+Here we can see a sample of text with fonts, so it is useful in that sense.
