@@ -1,0 +1,1 @@
+- Better support for vertical typing, switch to Roya with ctrl+break.

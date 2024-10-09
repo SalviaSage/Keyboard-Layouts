@@ -1,0 +1,138 @@
+﻿DEADTABLE
+
+DEADKEY	0062
+
+30A2	30D0	// a -> バ
+30A8	30D9	// e -> ベ
+30A4	30D3	// i -> ビ
+30AA	30DC	// o -> ボ
+30A6	30D6	// u -> ブ
+
+DEADKEY	0064
+
+30A2	30C0	// a -> ダ
+30A8	30C7	// e -> デ
+30A4	30C2	// i -> ヂ
+30AA	30C9	// o -> ド
+30A6	30C5	// u -> ヅ
+
+DEADKEY	0067
+
+30A2	30AC	// a -> ガ
+30A8	30B2	// e -> ゲ
+30A4	30AE	// i -> ギ
+30AA	30B4	// o -> ゴ
+30A6	30B0	// u -> グ
+
+DEADKEY	0068
+
+30A2	30CF	// a -> ハ
+30A8	30D8	// e -> ヘ
+30A4	30D2	// i -> ヒ
+30AA	30DB	// o -> ホ
+30A6	30D5	// u -> フ
+
+DEADKEY	006B
+
+30A2	30AB	// a -> カ
+30A8	30B1	// e -> ケ
+30A4	30AD	// i -> キ
+30AA	30B3	// o -> コ
+30A6	30AF	// u -> ク
+
+DEADKEY	006D
+
+30A2	30DE	// a -> マ
+30A8	30E1	// e -> メ
+30A4	30DF	// i -> ミ
+30AA	30E2	// o -> モ
+30A6	30E0	// u -> ム
+
+DEADKEY	006E
+
+30A2	30CA	// a -> ナ
+30A8	30CD	// e -> ネ
+30A4	30CB	// i -> ニ
+30AA	30CE	// o -> ノ
+30A6	30CC	// u -> ヌ
+
+DEADKEY	0070
+
+30A2	30D1	// a -> パ
+30A8	30DA	// e -> ペ
+30A4	30D4	// i -> ピ
+30AA	30DD	// o -> ポ
+30A6	30D7	// u -> プ
+
+DEADKEY	0072
+
+30A2	30E9	// a -> ラ
+30A8	30EC	// e -> レ
+30A4	30EA	// i -> リ
+30AA	30ED	// o -> ロ
+30A6	30EB	// u -> ル
+
+DEADKEY	0073
+
+30A2	30B5	// a -> サ
+30A8	30BB	// e -> セ
+30A4	30B7	// i -> シ
+30AA	30BD	// o -> ソ
+30A6	30B9	// u -> ス
+
+DEADKEY	0074
+
+30A2	30BF	// a -> タ
+30A8	30C6	// e -> テ
+30A4	30C1	// i -> チ
+30AA	30C8	// o -> ト
+30A6	30C4	// u -> ツ
+
+DEADKEY	0076
+
+30A2	30F7	// a -> ヷ
+30A8	30F9	// e -> ヹ
+30A4	30F8	// i -> ヸ
+30AA	30FA	// o -> ヺ
+30A6	30F4	// u -> ヴ
+
+DEADKEY	0077
+
+30A2	30EF	// a -> ワ
+30A8	30F1	// e -> ヱ
+30A4	30F0	// i -> ヰ
+30AA	30F2	// o -> ヲ
+
+DEADKEY	0079
+
+30A2	30E4	// a -> ヤ
+30AA	30E8	// o -> ヨ
+30A6	30E6	// u -> ユ
+
+DEADKEY	007A
+
+30A2	30B6	// a -> ザ
+30A8	30BC	// e -> ゼ
+30A4	30B8	// i -> ジ
+30AA	30BE	// o -> ゾ
+30A6	30BA	// u -> ズ
+
+KEYNAME_DEAD
+
+0062	"Katakana Letter b"
+0064	"Katakana Letter d"
+0067	"Katakana Letter g"
+0068	"Katakana Letter h"
+006B	"Katakana Letter k"
+006D	"Katakana Letter m"
+006E	"Katakana Letter n"
+0070	"Katakana Letter p"
+0072	"Katakana Letter r"
+0073	"Katakana Letter s"
+0074	"Katakana Letter t"
+0076	"Katakana Letter v"
+0077	"Katakana Letter w"
+0079	"Katakana Letter y"
+007A	"Katakana Letter z"
+
+ENDDEADTABLE
