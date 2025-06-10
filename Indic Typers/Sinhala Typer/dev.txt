@@ -1,0 +1,3 @@
+dev notes;
+
+Unlike the Devanagari script, the virama character has to be used with the Zero Width Joiner character to have the same effect of forming conjunct characters.
