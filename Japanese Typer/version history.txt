@@ -1,0 +1,36 @@
+Japanese Kana Typer Version History;
+
+	1.0 (May 20, 2024)
+Upload and release of the first version of Japanese Typer.
+It does work but there may be some integration and recognition issues from Windows.
+
+	1.1 (May 26, 2024)
+It's pretty buggy after the compilation of the first release.
+
+1) The switch to the Latin alphabet with the scroll lock sends double letters instead of single letters due to deadkey assignments.
+For this reason, the switch to typing in the Latin alphabet with the scroll lock is disabled in Hiragana and Katakana typers.
+On the dual version, it switches between Hiragana and Katakana.
+
+2) If the Hotstrings program is running, on the dual version, the Katakana does not work and sends Latin alphabet letters instead.
+I don't know why there is such a problem, but it is this program that enables the use of Kanji.
+Therefore, using the dual version is not recommended at this time.
+
+3) It also says "Unavailable Input Method" When we install the program alongside Microsoft IME for Japanese.
+For this reason, I compiled the programs under the "English" locale instead of the preferred "Japanese" locale.
+That may still have problems but it is one feasible work-around right now.
+
+	1.2 (August 21, 2024)
+1)Bug fixes.
+2)Complete removal of the program's capacity to switch to the Latin alphabet for compatibility reasons.
+
+	1.3 (September 2, 2024)
+1)Recompilation.
+
+	1.4 (October 7, 2024)
+1)Added one missing syllable, hiragana letter vu (U+3094).
+2)Added regular (non CJK) space character to ctrl+shift+alt+space.
+3)Other changes.
+
+	1.5 (June 13, 2025)
+1)Changed some fullwidth characters to normal-size characters.
+3)Other changes.
