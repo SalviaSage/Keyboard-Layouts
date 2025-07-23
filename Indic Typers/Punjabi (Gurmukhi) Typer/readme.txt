@@ -1,2 +1,0 @@
-Punjabi (Gurmukhi) Typer;
-
