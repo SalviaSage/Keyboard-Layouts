@@ -1,24 +1,25 @@
 Keyboard Layouts — Help Documentation; 
 
-These are the computer programs that I make using a keyboard layout editor program.
+These are the computer programs that I made for typing in different languages and alphabets.
 These programs re-arrange the letters on the keyboard with other letters.
-They are useful for typing in other languages and alphabets.
-The way my keyboard layouts work is that I try to assign the letters found in the alphabet to where they would be on the keyboard.
 
-For example, in the Arabic Typer, the letter 'ل' (lām) is located at the same key where the letter 'L' is.
+The way they work is that I assign the letters found in the alphabet to where they should be on the keyboard.
+For example, in the Arabic Typer, the letter 'ل' (lām) is located at the 'L' key.
 In the Cyrillic Typer, pressing the same key will give the letter 'л'.
-This is a necessary step to facilitate typing; this kind of mnemonics is what allows a QWERTY keyboard user to type fast and without errors across different writing systems.
+This is a necessary feature to facilitate typing.
+This kind of mnemonics is what allows a QWERTY keyboard user to type fast and without errors across different alphabets.
 This allows us to type different alphabets and languages from a retained muscle memory.
+
 I make a separate computer program for every Unicode block.
 
-For example, Russian, Belarusian, and Ukrainian are all written in Cyrillic.
-I do not make separate programs for each if I don't have to.
-I make one computer program that types Cyrillic without any missing letters.
-Then, of course, it does not cover all the letters and letter variants used in writing for example, Serbian.
+For example, Russian, Belarusian, and Ukrainian are all written with the Cyrillic alphabet.
+I do not make separate programs for each.
+I make one computer program that types Cyrillic without any missing letters for a given geographical area.
+Of course, it does not cover all the letters and letter variants used in other Cyrillic alphabets, for example, Serbian and Macedonian.
 To address this issue, I either have to develop another program which will cover the needs of that particular language or create IMEs (Input Method Editors).
 Input Method Editors are the only viable method for writing systems where there are too many characters that can not fit on a 104-key keyboard.
 
-The idea here is that I do not make only keyboard layout programs but also other programs that work in tandem with these programs to give the typist the best typing experience.
+I do not make only keyboard layout programs, but also other programs that work in tandem with these programs to give the typist the best typing experience.
 
 Below is a keyboard typing guide and a hotkey guide for the Windows 10 21H1 version.
 I can not guarantee its correctness in versions below 21H1. It may have been changed.
@@ -31,20 +32,20 @@ WINDOWS KEY + SPACE: Cycles all of the keyboard layouts, across languages as wel
 ALT + LEFT SHIFT: Cycles languages downwards, not the keyboard layouts.
 ALT + RIGHT SHIFT: Cycles languages upwards, not the keyboard layouts.
 
-WINDOWS KEY + ; : Windows key + the semicolon key opens the emoji menu where we can type emojis, kaomojis, emoticons and also various symbols and letters from Unicode.
+WINDOWS KEY + ;: Windows key + the semicolon key opens the emoji menu where we can type emojis, kaomojis, emoticons and also various symbols and letters from Unicode.
 
 WINDOWS KEY + CTRL + O: Pressing this will turn on the On-Screen Keyboard, so the keyboard can be utilised using the mouse.
 Pressing it again will turn it off.
 
-SHIFT KEY, pressed 5 times: This will trigger a window which asks you if you want to turn on the "sticky keys" functionality of Windows 10.
+SHIFT KEY, pressed 5 times: This will trigger a window which asks you if you want to turn on the "sticky keys" functionality of Windows.
 
 RIGHT SHIFT KEY, held down for 8 seconds:
-This will trigger a window which asks you if you want to turn on the "filter keys" functionality of Windows 10.
+This will trigger a window which asks you if you want to turn on the "filter keys" functionality of Windows.
 If you hit yes, the "FilterKeys" icon will appear as a tray icon in the taskbar.
 If you want to turn it off again, you can again hold down the right shift key for 8 seconds.
 
 NUM LOCK KEY, held down for 5 seconds:
-This will trigger a window which asks you if you want to turn on the "toggle keys" functionality of Windows 10.
+This will trigger a window which asks you if you want to turn on the "toggle keys" functionality of Windows.
 This makes it so that a sound is played by windows when the caps lock, num lock or scroll lock keys are pressed.
 
 I recommend that these shortcut keys should be turned off as they can be toggled unintentionally.
@@ -119,3 +120,4 @@ NOTE: These hotkeys do not work on Windows 11 unless a right-to-left language su
 
 Signed ﻿;  
 	𝓞.﻿ ﻿𝓞𝔃𝓽𝓮𝓴𝓲𝓷
+
