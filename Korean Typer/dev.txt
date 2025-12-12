@@ -1,0 +1,2 @@
+1) Vowel letters must be set to "unaffected by caps lock".
+2) Caps lock only has syllable final (bottom) position consonants (jongseong).
