@@ -3,7 +3,7 @@
 ##### A Criticism of the International Phonetic Alphabet
 
 Typed by: Mister Özgün Öztekin ( ﻿SalviaSage﻿ )  
-Date of last revision: 2026‑03‑21   
+Date of last revision: 2026‑03‑28   
 Word count: ≈26,000  
 Paragraph count: 441  
 Chapter count: 20
@@ -32,8 +32,11 @@ Signed;
 &nbsp;&nbsp;&nbsp;&nbsp;𝓞. 𝓞𝔃𝓽𝓮𝓴𝓲𝓷
 
 ------
+
 [TOC]
+
 ------
+
 #### FOREWORD:
 
 [﻿](§0.1)Articulatory phonetics is the scientific subject which explains how different speech sounds are produced by humans. It concerns itself with the explanations of such sounds and their categorisations.
@@ -46,7 +49,7 @@ Signed;
 
 [﻿](§0.5)This document gives examples from the International Phonetic Alphabet's ( ﻿IPA﻿ ) phonetic notation using square brackets [ ﻿﻿ ]. The Translingual Phonetic Alphabet's ( ﻿TPA﻿ ) phonetic notation is marked with curly brackets { ﻿﻿ }.
 
-[﻿](§0.6)The Translingual Phonetic Alphabet is based on the International Phonetic Alphabet. It can be considered a derivative of it. The IPA has full Unicode support, and more phonetic characters in conformity with the IPA are being added to Unicode. I do not have the rights to Unicode or the International Phonetic Alphabet. I believe there is nothing here with regards to my works that I can patent or claim. The rights to those works belong to their respective authors. However, my literary works as well as my science project, the Translingual Phonetic Alphabet, constitute my own ( ﻿author's﻿ ) intellectual property. I want my intellectual property preserved and attributed to me.
+[﻿](§0.6)The Translingual Phonetic Alphabet is a phonetic alphabet that is similar to the International Phonetic Alphabet. It can be considered a derivative of it. The IPA has full Unicode support, and more phonetic characters in conformity with the IPA are being added to Unicode. I do not have the rights to Unicode or the International Phonetic Alphabet. I believe there is nothing here with regards to my works that I can patent or claim. The rights to those works belong to their respective authors. However, my literary works as well as my science project, the Translingual Phonetic Alphabet, constitute my own ( ﻿author's﻿ ) intellectual property. I want my intellectual property preserved and attributed to me.
 
 [﻿](§0.7)I must underline the complexity of this subject. To have accurate explanations, we have to dig deep. I want to give you a sense of how many different combinations of sounds there can be. Through my research, I have found and numbered the total number of individual sounds ( ﻿phones﻿ ) to be about one hundred and fifty. All of which can be represented in the Translingual Phonetic Alphabet and in Unicode. There are enough Latin letters and their variations in Unicode to make an alphabet based on that, and I did exactly that. There are about one hundred and thirty consonants ( ﻿contoids﻿ ). There are twenty vowels ( ﻿vocoids﻿ ), plus six semi‑vowels (or approximants) that make a smooth transition from contoids to vocoids. There also exist secondary articulations whereby another motion is being committed within the vocal tract while another articulation is taking place at the same time. Seeing this forced me to introduce the concept of plain phones and complex phones. Phone is the Greek word for sound. This complexity arises from the human being's excellent capacity for language and sound production. However, we do know that there are limitations to these mixes and matches and that not everything can be combined. It is the subject of articulatory phonetics to make correct explanations with regard to these sounds.
 
@@ -202,18 +205,22 @@ Percussive mechanism
 [﻿](§3.6)Because they have a fricated release as opposed to a non‑fricated release, I consider them to be more occluded than the plosives, and I believe they are the most occluded of all manners of articulation, hence they are at the very top of the list.
 
 [﻿](§3.7){ ꝗ } voiceless uvular affricate (U+A757) “latin small letter q with stroke through descender”  
-{ ʛ } voiced uvular affricate (U+029B) “latin letter small capital g with hook”  
+{ ꬶ } voiced uvular affricate (U+AB36) “latin small letter script g with crossed-tail”  
 { ꝁ } voiceless velar affricate (U+A741) “latin small letter k with stroke”  
 { ǥ } voiced velar affricate (U+01E5) “latin small letter g with stroke”  
 { ȼ } voiceless palatal affricate (U+023C) “latin small letter c with stroke”  
 { ɟ } voiced palatal affricate (U+025F) “latin small letter dotless j with stroke”  
 { ɕ } voiceless postalveolar affricate (U+0255) “latin small letter c with curl”  
 { ʓ } voiced postalveolar affricate (U+0293) “latin small letter ezh with curl”  
-{ ꞩ } voiceless retroflex affricate (U+A7A9) “latin small letter s with oblique stroke”  
-&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ꟊ } (U+A7CA) “latin small letter s with short stroke overlay”  
-{ ƶ } voiced retroflex affricate (U+01B6) “latin small letter z with stroke”  
+{ ʆ } voiceless retroflex affricate (U+0286) “latin small letter esh with curl”  
+{ 𝼌 } voiced retroflex affricate (U+1DF0C) “latin small letter esh with double bar and curl”  
 { 𝼞 } voiceless alveolar affricate (U+1DF1E) “latin small letter s with curl”  
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ꞩ } (U+A7A9) “latin small letter s with oblique stroke”  
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ꟊ } (U+A7CA) “latin small letter s with short stroke overlay”  
 { ʑ } voiced alveolar affricate (U+0291) “latin small letter z with curl”  
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ƶ } (U+01B6) “latin small letter z with stroke”  
+&nbsp;{ ⱡ } voiceless alveolar bilateral affricate (U+2C61) “latin small letter l with double bar”  
+&nbsp;{ ƚ } voiced alveolar bilateral affricate (U+019A) “latin small letter l with bar”  
 { ⱷ } voiceless labiodental affricate (U+2C77) “latin small letter tailless phi”  
 { ꝟ } voiced labiodental affricate (U+A75F) “latin small letter v with diagonal stroke”  
 { ꝑ } voiceless bilabial affricate (U+A751) “latin small letter p with stroke through descender”  
@@ -312,7 +319,7 @@ Japanese Katakana Examples: “ ﻿ラ, レ, リ, ロ, ル﻿ ” [�
 
 [﻿](§3.26)They are sounds whereby two articulators are made to strike one another. Examples include the bidental percussive, where the upper teeth and the lower teeth hit each other. And the bilabial percussive, where the lips are made to hit each other. The most common and easiest of these is the tongue cluck sound that you may already be familiar with; it is done by placing the tongue on the front of the palate, sucking in, and then letting go. With that force, the tongue strikes the floor of the mouth { ﻿ꭅ﻿ }, thus “ ﻿percussives﻿ ”.
 
-[﻿](§3.27){ ʔ / ɂ / ◌ˀ } glottal stop / glottal percussive (U+0294 / U+0242 / U+02C0) “latin letter glottal stop”  
+[﻿](§3.27){ ʔ / ◌ˀ } glottal stop / glottal percussive (U+0294 / U+02C0) “latin letter glottal stop”  
 { ꭅ } lingual percussive (U+AB45) “latin small letter stirrup r” ( ﻿[ ﻿ǃ¡﻿ ] in IPA﻿ ) ⁽¹⁾  
 { ʭ } bidental percussive (U+02AD) “latin letter bidental percussive”  
 { ʬ } bilabial percussive (U+02AC) “latin letter bilabial percussive”
@@ -411,6 +418,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 { ç } voiceless palatal fricative (U+00E7) “latin small letter c with cedilla”  
 { ỿ } voiced palatal fricative (U+1EFF) “latin small letter y with loop” ( ﻿[ ﻿ʝ﻿ ] in IPA﻿ )  
 { ş } voiceless postalveolar fricative (U+015F) “latin small letter s with cedilla” ( ﻿[ ﻿ʃ﻿ ] in IPA﻿ )  
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ʃ } (U+0283) “latin small letter esh”  
 { ʒ } voiced postalveolar fricative (U+0292) “latin small letter ezh”  
 { ᶊ } voiceless retroflex fricative (U+1D8A) “latin small letter s with palatal hook”  
 { ɻ } voiced retroflex fricative (U+027B) “latin small letter turned r with hook”  
@@ -450,7 +458,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 [﻿](§3.56){ **ꟛ** } voiced palatal bilateral fricative (U+A7DB) “latin small letter lambda”⁽²⁾  
 &nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { λ } voiced palatal bilateral fricative (U+03BB) “greek small letter lamda”  
 { ƛ } voiceless palatal bilateral fricative (U+019B) “latin small letter lambda with stroke”  
-{ ʎ } voiced postalveolar bilateral fricative (U+028E) “latin small letter turned y”
+{ ʎ } voiced postalveolar bilateral fricative (U+028E) “latin small letter turned y”  
 { 𝼆 } voiceless postalveolar bilateral fricative (U+1DF06) “latin small letter turned y with belt”    
 { ᶅ } voiced retroflex bilateral fricative (U+1D85) “latin small letter l with palatal hook”  
 { 𝼓 } voiceless retroflex bilateral fricative (U+1DF13) “latin small letter l with belt and palatal hook”  
@@ -458,7 +466,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 &nbsp;&nbsp;&nbsp;&nbsp;{ ł } voiced velarised alveolar bilateral fricative (dark l) (U+0142) “latin small letter l with stroke”  
 { ɬ } voiceless alveolar bilateral fricative (U+026C) “latin small letter l with belt”  
 { ʟ } voiced dental bilateral fricative (U+029F) “latin letter small capital l”  
-{ 𝼄 } voiceless dental bilateral fricative (U+1DF04) “latin letter small capital l with belt”
+{ 𝼄 } voiceless dental bilateral fricative (U+1DF04) “latin letter small capital l with belt”  
 &nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ᴌ } (U+1D0C) “latin letter small capital l with stroke”  
 { ɫ } voiced interdental bilateral fricative (U+026B) “latin small letter l with middle tilde”  
 { ꬸ } voiceless interdental bilateral fricative (U+AB38) “latin small letter l with double middle tilde”
@@ -548,6 +556,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 { ᵿ } rounded front near-tense vocoid (U+1D7F) “latin small letter upsilon with stroke”
 
 [﻿](§3.81){ a } unrounded rear lax vocoid (U+0061) “latin small letter a”  
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ɑ } (U+0251) “latin small letter alpha”  
 { o } rounded rear lax vocoid (U+006F) “latin small letter o”  
 { æ } unrounded centre lax vocoid (U+00E6) “latin small letter ae”  
 { œ } rounded centre lax vocoid (U+0153) “latin small ligature oe”  
@@ -559,6 +568,7 @@ IPA Examples: [ ﻿m, n, ŋ, ɲ, ɳ, ɴ﻿ ]
 { ᴁ } unrounded centre extra-lax vocoid (U+1D01) “latin letter small capital ae”  
 { ɶ } rounded centre extra-lax vocoid (U+0276) “latin letter small capital oe”  
 { ᴇ } unrounded front extra-lax vocoid (U+1D07) “latin letter small capital e”  
+&nbsp;&nbsp;&nbsp;&nbsp;Alternative letter: { ɛ } (U+025B) “latin small letter open e”  
 { ꬿ } rounded front extra-lax vocoid (U+AB3F) “latin small letter open o with stroke”
 
 ##### [﻿](§3.83)*( ﻿14.1﻿ ) Explanation of vowel laxity:*
@@ -602,7 +612,7 @@ https://en.wikipedia.org/wiki/Vowel
 [﻿](§4.1)I believe I have to define what I mean here by phonetic occlusivity. Occlusive is a sound where a full obstruction is made in the vocal tract. Another word for it is obstruent. The vocal tract is fully closed, even if briefly. While in strictive, a restriction is made that is not a full occlusion, in non‑strictive, a restriction is not made ( ﻿for example, the vowel sounds﻿ ). Still, the mouth, the jaw, the tongue, and the lips may be moved. Thus, we have three levels of occlusivity, and we need to have them to explain the sounds accurately. We can have occlusive, strictive, and non‑strictive sounds for the pulmonics, while we can only have occlusive and strictive sounds for ejectives, and we can only have occlusive sounds for implosives.
 
 [﻿](§4.2)Again, this is factual information that is perhaps not there in other literature, but it is true. I implore you to test it for yourself. I have attempted to make a graph where I try to show all these sounds in a LibreOffice Calc spreadsheet. You can find it here:  
-https://github.com/SalviaSage/Translingual-Phonetic-Alphabet/releases
+https://github.com/SalviaSage/Translingual-Phonetic-Alphabet
 
 [﻿](§4.3)Lingual does not have anything to do with the glottis. Thus, the voicing element is completely left out of its operation. It works by pistoning the air outwards with the tongue ( ﻿egressive﻿ ), or by sucking in with the tongue ( ﻿ingressive﻿ ). This suction motion is known as clicks, while the egressive motion of pistoning the air out is known as velarics. So again, some terminology: egressive glottalics are commonly called “ ﻿ejectives﻿ ” while ingressive glottalics are called “ ﻿implosives﻿ ”. Egressive linguals are called “ ﻿velarics﻿ ” while ingressive linguals are called “ ﻿clicks﻿ ”.
 
@@ -641,17 +651,17 @@ I do not agree with the following statement that we can find on this webpage:
 [﻿](§7.1)Tones are something that we come across in music. You may be familiar with the musical scale do‑re‑mi‑fa‑so‑la‑si‑do. This is an eight‑level scale, in which we have eight tones. The same concept is found in phonetics and pronunciation, especially with regard to the pronunciation of vowels. Here, we call it pitch, and we have three fundamental levels; high, mid, and low. In the International Phonetic Alphabet, there are five levels; extra‑high, high, mid, low, and extra‑low. In the Translingual Phonetic Alphabet, there are three main levels: high, mid, and low. High can be split into extra‑high and high, and low can be split into extra‑low and low for a more precise five‑level system. This is the same system as in the IPA. There are also what are called “ ﻿contour tones﻿ ”. In this case, the tones start from one tone and go towards another tone. Contour tones are further defined as “ ﻿double contour tones﻿ ” where we have a shift from one tone to another tone and “ ﻿triple contour tones﻿ ”, where it is the same thing but with three tones instead. This gives us three flat‑level tones, six double‑contour tones, and ten triple‑contour tones.
 
 | [﻿](§7.2)FLAT TONES                                           | DOUBLE CONTOUR TONES | TRIPLE CONTOUR TONES   |
-| :----------------------------------------------------------------- | :------------------- | :--------------------- |
-| LOW { ﻿◌˩ / ꜜ◌﻿ }                                   | LOW‑MID { ﻿◌᷇ / ◌˩˧﻿ }  | LOW‑MID‑LOW { ﻿◌˩˧˩﻿ }   |
-| MID { ﻿◌ / ◌˧﻿ }                                    | LOW‑HIGH { ﻿◌́ / ◌˩˥﻿ } | LOW‑HIGH‑LOW { ﻿◌˩˥˩﻿ }  |
-| HIGH { ﻿◌˥ / ꜛ◌﻿ }                                  | MID‑LOW { ﻿◌᷆ / ◌˧˩﻿ }  | LOW‑HIGH‑MID { ﻿◌˩˥˧﻿ }  |
-|                                                                    | MID‑HIGH { ﻿◌᷄ / ◌˧˥﻿ } | MID‑LOW‑MID { ﻿◌˧˩˧﻿ }   |
-|                                                                    | HIGH‑LOW { ﻿◌̀ / ◌˥˩﻿ } | MID‑LOW‑HIGH { ﻿◌˧˩˥﻿ }  |
-| { ﻿ꜛ◌, ꜜ◌﻿ }                                        | HIGH‑MID { ﻿◌᷅ / ◌˥˧﻿ } | MID‑HIGH‑LOW { ﻿◌˧˥˩﻿ }  |
-| { ﻿◌᷇, ◌́, ◌᷆, ◌᷄, ◌̀, ◌᷅﻿ }                             |                                       | MID‑HIGH‑MID { ﻿◌˧˥˧﻿ }  |
-| { ﻿◌˥, ◌˧, ◌˩﻿ }                                    |                                       | HIGH‑LOW‑MID { ﻿◌˥˩˧﻿ }  |
-| { ﻿◌˩˧, ◌˩˥, ◌˧˩, ◌˧˥, ◌˥˩, ◌˥˧﻿ }                         |                                       | HIGH‑LOW‑HIGH { ﻿◌˥˩˥﻿ } |
-| { ﻿◌˩˧˩, ◌˩˥˩, ◌˩˥˧, ◌˧˩˧, ◌˧˩˥, ◌˧˥˩, ◌˧˥˧, ◌˥˩˧, ◌˥˩˥, ◌˥˧˥﻿ }        |                                       | HIGH‑MID‑HIGH { ﻿◌˥˧˥﻿ } |
+| :----------------------------------------------------------- | :------------------- | :--------------------- |
+| LOW { ﻿◌˩ / ꜜ◌﻿ }                                              | LOW‑MID { ﻿◌᷇ / ◌˩˧﻿ }  | LOW‑MID‑LOW { ﻿◌˩˧˩﻿ }   |
+| MID { ﻿◌ / ◌˧﻿ }                                               | LOW‑HIGH { ﻿◌́ / ◌˩˥﻿ } | LOW‑HIGH‑LOW { ﻿◌˩˥˩﻿ }  |
+| HIGH { ﻿◌˥ / ꜛ◌﻿ }                                             | MID‑LOW { ﻿◌᷆ / ◌˧˩﻿ }  | LOW‑HIGH‑MID { ﻿◌˩˥˧﻿ }  |
+|                                                              | MID‑HIGH { ﻿◌᷄ / ◌˧˥﻿ } | MID‑LOW‑MID { ﻿◌˧˩˧﻿ }   |
+|                                                              | HIGH‑LOW { ﻿◌̀ / ◌˥˩﻿ } | MID‑LOW‑HIGH { ﻿◌˧˩˥﻿ }  |
+| { ﻿ꜛ◌, ꜜ◌﻿ }                                                   | HIGH‑MID { ﻿◌᷅ / ◌˥˧﻿ } | MID‑HIGH‑LOW { ﻿◌˧˥˩﻿ }  |
+| { ﻿◌᷇, ◌́, ◌᷆, ◌᷄, ◌̀, ◌᷅﻿ }                                         |                      | MID‑HIGH‑MID { ﻿◌˧˥˧﻿ }  |
+| { ﻿◌˥, ◌˧, ◌˩﻿ }                                               |                      | HIGH‑LOW‑MID { ﻿◌˥˩˧﻿ }  |
+| { ﻿◌˩˧, ◌˩˥, ◌˧˩, ◌˧˥, ◌˥˩, ◌˥˧﻿ }                             |                      | HIGH‑LOW‑HIGH { ﻿◌˥˩˥﻿ } |
+| { ﻿◌˩˧˩, ◌˩˥˩, ◌˩˥˧, ◌˧˩˧, ◌˧˩˥, ◌˧˥˩, ◌˧˥˧, ◌˥˩˧, ◌˥˩˥, ◌˥˧˥﻿ } |                      | HIGH‑MID‑HIGH { ﻿◌˥˧˥﻿ } |
 
 [﻿](§7.3)You can also think of them as diphthongs, but instead, it isn't the positions of the lips, the jaw, or the tongue that move; it is the pitch that moves. I believe that phenomenon itself happens at the vocal cords and is not controlled elsewhere. Unfortunately, I cannot give you a precise explanation as to what happens there in this document, as that is something I do not know. But I believe that concept is already explained in the study of music, and it is probably something similar to that. I do believe, however, that I have correctly identified the three tones that are utilised in speech. I believe that this scale fits all languages and that we do not need a higher level of acuity than five levels. This concept is particularly important in East Asian languages such as Thai, Vietnamese, Mandarin, and Cantonese.
 
@@ -695,11 +705,7 @@ I want to talk about my belief that the vowel chart of the International Phoneti
 
 [﻿](§10.6)In my chart, I do not have centre vowels between the rear and front vowels for close vowels. So it goes directly from the front vowels to the back vowels. It does make a distinction between front, centre, and rear for open vowels. This is already demonstrated in languages, not only phonetically but also phonologically. English is one language that has all three, for example, as “ ﻿but, bat, bet﻿ ”. But I found no such evidence for the close vowels. Also, yes, I moved the centre vowel schwa to the rear vowel position, but at the same time, it is more frontal than that of the rear close vowel, like the Turkish dotless i, for example, which is a tense rear vowel.
 
-[﻿](§10.7)It was incredibly difficult for me to come up with a factual system, and it took me months and many revisions, but eventually, I believe I came up with a system that is more accurate than that of the IPA. For example, in the IPA vowel chart, how can the Latin alphabet letter ‘ ﻿a﻿ ’ be classified as a front vowel?  
-https://en.wikipedia.org/wiki/Open_front_unrounded_vowel  
-It is not a letter that represents a front vowel. It's a rear open vowel in the Latin alphabet. The letter ‘ ﻿æ﻿ ’ is being considered as a front vowel as well.  
-https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel  
-It glyphically looks like a combination (a ligature) of the letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’. This letter was used in Old English spelling, and it represented a centre lax vowel to make up for the fact that the already existing Latin letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’ did not make this distinction. Furthermore, there is evidence for my claim from the Futhorc alphabet for English, before the adoption of the Latin alphabet where there are two separate runes called oak (ᚪ), representing the ‘ ﻿a﻿ ’ vowel and ash (ᚫ), representing the ‘ ﻿æ﻿ ’ vowel.
+[﻿](§10.7)It was incredibly difficult for me to come up with a factual system, and it took me months and many revisions, but eventually, I believe I came up with a system that is more accurate than that of the IPA. For example, in the IPA vowel chart, how can the Latin alphabet letter ‘ ﻿a﻿ ’ be classified as a front vowel? (https://en.wikipedia.org/wiki/Open_front_unrounded_vowel) It is not a letter that represents a front vowel. It's a rear open vowel in the Latin alphabet. The letter ‘ ﻿æ﻿ ’ is being considered as a front vowel as well. (https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel) It glyphically looks like a combination (a ligature) of the letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’. This letter was used in Old English spelling, and it represented a centre lax vowel to make up for the fact that the already existing Latin letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’ did not make this distinction. Furthermore, there is evidence for my claim from the Futhorc alphabet for English, before the adoption of the Latin alphabet where there are two separate runes called oak (ᚪ), representing the ‘ ﻿a﻿ ’ vowel and ash (ᚫ), representing the ‘ ﻿æ﻿ ’ vowel.
 
 [﻿](§10.8)I correctly measured the human mouth and the positions of the tongue and determined that the vowels must be measured starting from the four established approximants, also known as semi‑vowels. This gives us an excellent measuring point from where we can measure the rest of the vowels. My alphabet has only front and rear vowels for tense vowels, as I believe that making a central distinction here is not necessary and is not done in world languages. Instead, here, a frontal ( ﻿palatal﻿ ) and a rear ( ﻿velar﻿ ) distinction, combined with the position of the jaw, is extensive enough. For open vowels, because the jaw is lower down, we have more room for the tongue. Languages plentily use this trait of the vocal tract. In my other literary work ( ﻿The Discourse on the Phonology of the English Language and a Critique﻿ ), I explained that the vowel letter “ ﻿aesc﻿ ” from Old English ( ﻿æ﻿ ) is a centre vowel and that it is not a front vowel as it is shown in the IPA chart. This also makes sense since this letter is clearly a combination of the letters ‘ ﻿a﻿ ’ and ‘ ﻿e﻿ ’ and its position of pronunciation lies right between the front vowel ‘ ﻿e﻿ ’ and the rear vowel ‘ ﻿a﻿ ’.
 
@@ -772,7 +778,7 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 [﻿](§11.2)So for example this pronunciation;  
 `{ ﻿ɔ̱l᷾ h͜yu̱mən bɪ̱ɪŋs a̱ɻ bo̱ɻn fɻɪ̱ː æ̱n ɪ̱ːkuəl᷾ ɪn dɪ̱gnɪtɪ æ̱n ɻa̱yts﻿ }`
 
-[﻿](§11.3)Would effectively become:  
+[﻿](§11.3)Would become:  
 `{ ﻿ɔ̱̥l̥᷾ h͜yu̥̱m̥ə̥n̥ b̥ɪ̥ɪ̥ŋ̥s ḁ̱ɻ̥ b̥o̥̱ɻ̥n̥ fɻ̥ɪ̥ː æ̥̱n̥ ɪ̥ːku̥ə̥l̥᷾ ɪ̥n̥ d̥ɪ̥g̥n̥ɪ̥tɪ̥ æ̥̱n̥ ɻ̥ḁ̱y̥ts﻿ }`
 
 [﻿](§11.4)I used the devoicing combining diacritic on everything that is normally voiced. Here, we can also see multiple combining diacritics going below the letters, while we can also have combining diacritics going on top of the letters. This is a good demonstration of the combining diacritic system of the TPA.
@@ -827,11 +833,11 @@ These consonants [ ﻿ɹ], ﻿ [ɻ] are misclassified as approximants. The c
 
 - [﻿](§15.7)**Use of other mainstream orthography:** The TPA does not throw out the general orthography and other writing guidelines that writing systems use. For example, although we don't have capitalisation because TPA is entirely small case letters, we can still use things like question marks, commas, and punctuation marks. They don't affect the phonetic alphabet, and in fact, the TPA has these markers for mark grammatical and semantic phenomena as they are found in languages. For example, although in typical orthography, you may have commas to separate phrases and periods to separate sentences, you do not have separators for morphemes or vowel hiatus, which would be of use to us here.
 
-- [﻿](§15.8)**The coining of new phonetic letters for affricates:** Although this wasn't originally planned, I saw that the IPA did not have specific letters for affricates. I thought there should be affricate letters. I adored the letters “ ﻿esh﻿ ” { ﻿ʃ﻿ } and “ ﻿ezh﻿ ” { ﻿ʒ﻿ } from the IPA, and I knew that these letters were so beneficial and necessary, but it was sad to see that their affricate counterparts, which are also popular sounds in world languages, were not there. So I went ahead and found two appropriate letters from Unicode that I called “ ﻿*etch*﻿ ” { ﻿ɕ﻿ } and “ ﻿*edg*﻿ ” { ﻿ʓ﻿ }. They are the ‘ ﻿c﻿ ’ and the ‘ ﻿ʒ﻿ ’ letters with a curl at the bottom. I also found “ ﻿*ets*﻿ ” { ﻿ꞩ﻿ } and “ ﻿*edz*﻿ ” { ﻿ƶ﻿ }. They are the ‘ ﻿s﻿ ’ and the ‘ ﻿z﻿ ’ letters with a stroke going through them, which show the affricate versions of those fricative sounds in the TPA. As well as { ﻿ȼ﻿ } for palatal affricate, which is the letter ‘ ﻿c﻿ ’ with a stroke. Keeping up with the curled and stroked letters, the velar affricate { ﻿ꝁ﻿ } and the uvular affricate { ﻿ꝗ﻿ }, as well as { ﻿ꝟ﻿ } for the voiced labiodental affricate, and a “ ﻿p with stroke through descender﻿ ” { ﻿ꝑ﻿ } for the bilabial affricate, although they are rarer sounds.
+- [﻿](§15.8)**The coining of new phonetic letters for affricates:** Although this wasn't originally planned, I saw that the IPA did not have specific letters for affricates. I thought there should be affricate letters. I adored the letters “ ﻿esh﻿ ” [ ﻿ʃ﻿ ] and “ ﻿ezh﻿ ” [ ﻿ʒ﻿ ] from the IPA, and I knew that these letters were so beneficial and necessary, but it was sad to see that their affricate counterparts, which are also popular sounds in world languages, were not there. So I went ahead and found two appropriate letters from Unicode that I called “ ﻿*etch*﻿ ” { ﻿ɕ﻿ } and “ ﻿*edg*﻿ ” { ﻿ʓ﻿ }. They are the ‘ ﻿c﻿ ’ and the ‘ ﻿ʒ﻿ ’ letters with a curl at the bottom. I also found “ ﻿*ets*﻿ ” { ﻿ꞩ﻿ } and “ ﻿*edz*﻿ ” { ﻿ƶ﻿ }. They are the ‘ ﻿s﻿ ’ and the ‘ ﻿z﻿ ’ letters with a stroke going through them, which show the affricate versions of those fricative sounds in the TPA. As well as { ﻿ȼ﻿ } for palatal affricate, which is the letter ‘ ﻿c﻿ ’ with a stroke. Keeping up with the curled and stroked letters, the velar affricate { ﻿ꝁ﻿ } and the uvular affricate { ﻿ꝗ﻿ }, as well as { ﻿ꝟ﻿ } for the voiced labiodental affricate, and a “ ﻿p with stroke through descender﻿ ” { ﻿ꝑ﻿ } for the bilabial affricate, although they are rarer sounds.
 
 - [﻿](§15.9)**Stress markers:** The IPA Marks stress outside of letters by using marks such as [ ﻿ˈ﻿ ] and [ ﻿ˌ﻿ ], but there is a problem here. They will unnecessarily add to the character count as well as make the text look less legible. It can also be confusing as to where these characters would be placed, but we know that the central part of a syllable, the nucleus of the syllable, is the area that would be stressed. This is typically a vowel. So I made the design decision to simply draw a bar under a letter to mark stress as { ﻿a̱﻿ }. That aside, I do like the syllabification and stress markers used by the IPA in general.
 
-- [﻿](§15.10)**The use of superscripts and small caps letters:** In the IPA, the superscript letters are used to mark secondary articulations. That original practice from the IPA of using the superscript letters is not present in the TPA. Some small capital letters represent different letters in the TPA. for example, ‘ ﻿d﻿ ’ and ‘ ﻿ᴅ﻿ ’, ‘ ﻿t﻿ ’ and ‘ ﻿ᴛ﻿ ’, ‘ ﻿b﻿ ’ and ‘ ﻿ʙ﻿ ’ and so on.
+- [﻿](§15.10)**The use of superscripts and small caps letters:** In the IPA, the superscript letters are used to mark secondary articulations. The same practice can be done in the TPA. Some small capital letters represent different letters in the TPA. For example; ‘ ﻿d﻿ ’ and ‘ ﻿ᴅ﻿ ’, ‘ ﻿t﻿ ’ and ‘ ﻿ᴛ﻿ ’, ‘ ﻿b﻿ ’ and ‘ ﻿ʙ﻿ ’, and so on.
 
 - [﻿](§15.11)**The prohibition of characters:** Whatever isn't phonetically or mechanically possible shouldn't be used. For example, the ejective diacritic should not be used with any voiced character such as { ﻿d↑﻿ }. Since the { ﻿d﻿ } is voiced and all ejectives are voiceless, this is a logical error, and such logical errors should be avoided. Also, for example, using the nasalisation diacritic with letters such as { ﻿m̃﻿ ] and { ﻿ñ﻿ } since they are already nasal characters. It makes no sense to use the labial rounding character on something that is already rounded, such as { ﻿ů﻿ }. It is also a logical error to tie together voiced and voiceless letters such as { ﻿d͡p﻿ }; they cannot be voiceless and voiced at the same time.
 
@@ -902,8 +908,8 @@ IPA has markers like extra‑short and some other ones, but I think they are jus
 
 ##### [﻿](§15.37)*( ﻿3﻿ ) Writing hiatus ( ﻿vowel breaks﻿ ):* { ﻿sˌs﻿ }
 
-[﻿](§15.38)Just place ( ﻿ˌ﻿ ) between the two vowels, such as `{ ﻿aːˌɪ̱t﻿ }`.  
-“ ﻿modifier letter low vertical line ( ﻿U+02CC﻿ )﻿ ”
+[﻿](§15.38)Just place ( ﻿ˌ﻿ ) between the two vowels, such as `{ ﻿āˌɪ̱t﻿ }`.  
+◌ˌ◌◌ “ ﻿modifier letter low vertical line ( ﻿U+02CC﻿ )﻿ ”
 
 [﻿](§15.39)Let's look at this Turkish language word example.  
 https://en.wiktionary.org/wiki/%C5%9Fair
@@ -949,7 +955,7 @@ This is because there isn't a triple combining tie bar in Unicode.
 
 [﻿](§15.55)The barred versions are good in the sense that they give us a way to type the letters without any combining diacritics on top. German, for example, resorts to using the umlaut ( ﻿◌̈﻿ ) diacritic to make front vowels out of back vowels. We cannot do that here because of the reservation of the space above and below letters.
 
-##### [﻿](§15.56)*( ﻿8﻿ ) Marking affrication:* { ﻿◌̾﻿ }
+##### [﻿](§15.56)*( ﻿8﻿ ) Marking affrication:* { ﻿◌̾﻿ }, {◌ⸯ}
 
 [﻿](§15.57)Why is there an affrication diacritic in the TPA { ﻿◌̾﻿ }?
 
@@ -959,40 +965,43 @@ This is because there isn't a triple combining tie bar in Unicode.
 
 [﻿](§15.60)So, “ ﻿affrication﻿ ” is a kind of secondary articulation, while “ ﻿affricates﻿ ” are a kind of manner of articulation, and they can both be marked without problems in the TPA.
 
-[﻿](§15.61)◌̾ combining vertical tilde (U+033E)
+[﻿](§15.61)◌̾ combining vertical tilde (U+033E)  
+◌ⸯ vertical tilde (U+2E2F)
 
-##### [﻿](§15.62)*( ﻿9﻿ ) Marking co-articulation:* { ﻿◌͜◌﻿ }, { ﻿◌͡◌﻿ }, { ﻿◌͡◌͡◌﻿ }, { ﻿◌͜◌͜◌﻿ }
+##### [﻿](§15.62)*( ﻿9﻿ ) Marking co-articulation:* { ﻿◌͜◌﻿ }, { ﻿◌͜◌͜◌﻿ }, { ﻿◌͡◌﻿ }, { ﻿◌͡◌͡◌﻿ }
 
-[﻿](§15.63)The co‑articulation diacritic { ﻿◌͜◌﻿ } or { ﻿◌͡◌﻿ } is there to show that two or more sounds are pronounced at the same time, not separately or successively. It is also possible to mark three sounds at the same time by using this diacritic twice { ﻿◌͡◌͡◌﻿ } or { ﻿◌͜◌͜◌﻿ }. Preferably, we would have an arc that goes over the three letters, but Unicode does not have a character for that. If in the future, they do add that to Unicode, it can be used instead. This combining diacritic is called a tie bar, and it cannot be used under certain circumstances. For example, we cannot use it on both a voiceless character and a voiced character. We can only use it with both voiceless or both voiced characters, as sounds cannot be both voiceless and voiced at the same time.
+[﻿](§15.63)The co‑articulation diacritic { ﻿◌͜◌﻿ } or { ﻿◌͡◌﻿ } is there to show that two or more sounds are pronounced at the same time, not separately or successively. It is also possible to mark three sounds at the same time by using this diacritic twice { ﻿◌͜◌͜◌﻿ } or { ﻿◌͡◌͡◌﻿ }. Preferably, we would have an arc that goes over the three letters, but Unicode does not have a character for that. If in the future, they do add that to Unicode, it can be used instead. This combining diacritic is called a tie bar, and it cannot be used under certain circumstances. For example, we cannot use it on both a voiceless character and a voiced character. We can only use it with both voiceless or both voiced characters, as sounds cannot be both voiceless and voiced at the same time.
 
 [﻿](§15.64)◌͜◌ combining double breve below (U+035C)  
 ◌͡◌ combining double inverted breve (U+0361)
 
-##### [﻿](§15.65)*( ﻿10﻿ ) Marking palatalisation ( ﻿lingual raising﻿ ):* { ﻿◌̑﻿ }, { ﻿◌͜y﻿ }
+##### [﻿](§15.65)*( ﻿10﻿ ) Marking palatalisation ( ﻿lingual raising﻿ ):* { ﻿◌̑﻿ }, { ﻿◌͜y﻿ }, { ﻿◌ʸ﻿ }
 
 [﻿](§15.66)Simply write a ‘ ﻿y﻿ ’ next to the letter and tie it with a tie bar. Such as “ ﻿build﻿ ” — { ﻿b͜yuld﻿ }  
-A superscript ‘ ﻿ʸ﻿ ’ is not preferred to be used here. The IPA uses [ ﻿◌ʲ﻿ ].  
-I decided not to use superscript letters as that means introducing a whole subset of letters into the alphabet.
+A superscript ‘ ﻿◌ʸ﻿ ’ can be used here. The IPA uses [ ﻿◌ʲ﻿ ].
 
 [﻿](§15.67)Another way of doing this is by using the inverted breve diacritic. { ﻿◌̑﻿ } such as { ﻿b̑uld﻿ }.  
 I picked this combining diacritic because it resembles the tongue going upwards towards the palate.
 
-[﻿](§15.68)◌̑ combining inverted breve (U+0311)
+[﻿](§15.68)◌̑ combining inverted breve (U+0311)  
+◌ʸ  modifier letter small y (U+02B8)
 
-##### [﻿](§15.69)*( ﻿11﻿ ) Marking velarisation ( ﻿lingual retraction﻿ ):* { ﻿◌̆﻿ }, { ﻿◌͜ɰ﻿ }
+##### [﻿](§15.69)*( ﻿11﻿ ) Marking velarisation ( ﻿lingual retraction﻿ ):* { ﻿◌̆﻿ }, { ﻿◌͜ɰ﻿ }, { ﻿◌ᶭ﻿ }
 
 [﻿](§15.70)Velarisation is the phenomenon of lingual retraction during the articulation of sounds. The way the ‘ ﻿L﻿ ’s are pronounced in English is a good example of velarisation. It is also known as the “ ﻿dark L﻿ ”. Transcription { ﻿l͜ɰ﻿ }. We can also use the combining diacritic { ﻿◌̆﻿ }. For example, the English word “ ﻿all﻿ ” — { ﻿ɔl̆﻿ }. I picked this combining diacritic because it resembles the tongue being retracted.
 
 [﻿](§15.71)The IPA uses [ ﻿lˠ﻿ ] instead. I object to this because this letter [ ﻿ɣ﻿ ] is being used for the voiced velar fricative. Which is not what is taking place here. For velarisation, [ ﻿ɰ﻿ ] should be used instead.
 
-[﻿](§15.72)◌̆ combining breve (U+0306)
+[﻿](§15.72)◌̆ combining breve (U+0306)  
+◌ᶭ modifier letter small turned m with long leg (U+1DAD)
 
-##### [﻿](§15.73)*( ﻿12﻿ ) Marking aspiration:* { ◌ͪ }, { ◌͜h }
+##### [﻿](§15.73)*( ﻿12﻿ ) Marking aspiration:* { ◌ͪ }, { ◌͜h }, { ﻿◌ʰ﻿ }
 
 [﻿](§15.74)This is marked with the letter ‘ ﻿h﻿ ’.  
 For example, the Hindi word “ ﻿धर्म﻿ ” can be transcribed as `{ ﻿d͜haɹm﻿ }` or as `{ ﻿dͪaɹm﻿ }`.
 
-[﻿](§15.75)◌ͪ combining latin small letter h (U+036A)
+[﻿](§15.75)◌ͪ combining latin small letter h (U+036A)  
+◌ʰ modifier letter small h (U+02B0)
 
 ##### [﻿](§15.76)*( ﻿13﻿ ) Marking whistling:* { ﻿◌̎﻿ }
 
@@ -1001,17 +1010,19 @@ I believe these are particularly useful for the Shona language from Mozambique, 
 
 [﻿](§15.78)◌̎ combining double vertical line above (U+030E)
 
-##### [﻿](§15.79)*( ﻿14﻿ ) Marking labialisation ( ﻿labial rounding﻿ ):* { ﻿◌̊﻿ }, { ﻿◌͜w﻿ }
+##### [﻿](§15.79)*( ﻿14﻿ ) Marking labialisation ( ﻿labial rounding﻿ ):* { ﻿◌̊﻿ }, { ﻿◌͜w﻿ }, { ﻿◌ʷ﻿ }
 
 [﻿](§15.80)The combining ring above diacritic { ﻿◌̊﻿ } is used to mark that the lips are made rounded during the pronunciation of the sound. I picked this diacritic because it looks like the shape of rounded lips. It should not be used with vowel letters that are already rounded, such as { ﻿o̊﻿ } or { ﻿ů﻿ }.
 
-[﻿](§15.81)◌̊ combining ring above (U+030A)
+[﻿](§15.81)◌̊ combining ring above (U+030A)  
+◌ʷ modifier letter small w (U+02B7)
 
-##### [﻿](§15.82)*( ﻿15﻿ ) Marking labial compression:* { ﻿◌̊̊﻿ } { ﻿◌͜β﻿ }
+##### [﻿](§15.82)*( ﻿15﻿ ) Marking labial compression:* { ﻿◌̊̊﻿ }, { ﻿◌͜β﻿ }, { ﻿◌ᵝ﻿ }
 
 [﻿](§15.83)This is just like labial rounding, but instead of rounding the lips, the lips are brought closer to each other.
 
-[﻿](§15.84)◌̊̊ combining ring above (U+030A) ⨱ 2
+[﻿](§15.84)◌̊̊ combining ring above (U+030A) ⨱ 2  
+◌ᵝ﻿ modifier letter small beta (U+1D5D)
 
 ##### [﻿](§15.85)*( ﻿16﻿ ) Marking voicelessness:* { ﻿◌̥﻿ }
 
@@ -1043,7 +1054,7 @@ It's not very useful here with English because we are marking vowel reduction tw
 
 [﻿](§15.98)◌⃨ combining triple underdot (U+20E8)
 
-##### [﻿](§15.99)*( ﻿21﻿ ) Marking glottalisation ( ﻿glottal closure﻿ ):* { ﻿◌̉﻿ }, { ﻿◌͡ʔ﻿ }, { ﻿◌͡ɂ}, { ﻿◌ˀ﻿ } marking “ ﻿no audible release﻿ ”: { ﻿◌̚﻿ } { ﻿◌¬﻿ }
+##### [﻿](§15.99)*( ﻿21﻿ ) Marking glottalisation ( ﻿glottal closure﻿ ):* { ﻿◌̉﻿ }, { ﻿◌͡ʔ﻿ }, { ﻿◌ˀ﻿ } marking “ ﻿no audible release﻿ ”: { ﻿◌̚﻿ } { ﻿◌¬﻿ }
 
 [﻿](§15.100)I decided to cover these two concepts together as they are relevant to each other. This secondary articulation shows that a glottal closure is taking place right after the phone is pronounced. It is different from the IPA's “ ﻿unreleased﻿ ” plosives, and it should not be confused with it. Its exact usage is a little complex.
 
@@ -1061,12 +1072,13 @@ https://en.wiktionary.org/wiki/%EC%9D%BC%EA%B3%B1
 ◌̚ combining left angle above (U+031A)  
 ◌¬ not sign (U+00AC) (after the letter)
 
-##### [﻿](§15.106)*( ﻿22﻿ ) Marking rhotacisation ( ﻿lingual curl﻿ ):* { ﻿◌᷾﻿ }, { ﻿◌͡ɻ﻿ }
+##### [﻿](§15.106)*( ﻿22﻿ ) Marking rhotacisation ( ﻿lingual curl﻿ ):* { ﻿◌᷾﻿ }, { ﻿◌͡ɻ﻿ }, { ﻿◌ʵ﻿ }
 
 [﻿](§15.107)Same combining diacritic as the velarisation but facing left instead.  
 This is to show the shape of the tongue curling up towards the palate { ﻿◌᷾﻿ }.
 
-[﻿](§15.108)◌᷾ combining left arrowhead above (U+1DFE)
+[﻿](§15.108)◌᷾ combining left arrowhead above (U+1DFE)  
+◌ʵ﻿  modifier letter small turned r with hook (U+02B5)
 
 ##### [﻿](§15.109)*( ﻿23﻿ ) Marking pharyngealisation ( ﻿pharyngeal restriction﻿ ):* { ﻿ʕ͡◌﻿ }, { ﻿ˤ◌﻿ }
 
@@ -1303,7 +1315,7 @@ trial ( ﻿abbreviation tl.﻿ ) { ﻿◌◌◌⁽ᵗˡ⁾﻿ }
 
 #### CHAPTER EIGHTEEN ( ﻿ⅩⅧ﻿ ): Alternative Letters in the TPA
 
-- [﻿](§18.1)ʃ / ş — “ ﻿esh﻿ ” and “ ﻿esse cédille﻿ ”. They both represent the voiceless postalveolar fricative in the TPA. The first sound in “ ﻿sheep﻿ ”. I introduced this letter, copying it from Turkish for aesthetics. I personally think it looks better than esh [ ﻿ʃ﻿ ]. ‘ ﻿ş﻿ ’ is the preferred letter in the TPA.
+- [﻿](§18.1)ʃ / ş — “ ﻿esh﻿ ” and “ ﻿esse cédille﻿ ” in French. They both represent the voiceless postalveolar fricative in the TPA. The first sound in “ ﻿sheep﻿ ”. I introduced this letter, copying it from Turkish for aesthetics. I personally think it looks better than esh [ ﻿ʃ﻿ ]. ‘ ﻿ş﻿ ’ is the preferred letter in the TPA.
 
 - [﻿](§18.2)i / ı, ɩ̇ / ɩ, ɪ̇ / ɪ — These letters, the iota with or without the dot, represent the same vowel in the TPA. While the IPA always writes them with the dot on top, in the TPA, it is not supposed to be written that way. This helps us fit diacritics on top of the ‘ ﻿i﻿ ’. In the IPA, the small capital ‘ ﻿ɪ﻿ ’ and the ‘ ﻿i﻿ ’ are considered separate vowels, but not here. We have { ﻿ᵻ﻿ } where they have [ ﻿ɪ﻿ ] in the IPA.
 
