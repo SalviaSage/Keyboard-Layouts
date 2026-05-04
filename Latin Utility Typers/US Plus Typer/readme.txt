@@ -93,7 +93,7 @@ AltGr+NumpadDot types the degree sign.
 Ctrlr+NumpadDot types the comma for thousands separation.
 
 (÷) "Division Sign" can be typed with Shift+num/.
-(⁄) "Fraction Slash" can be typed with Ctrl+num/ or AltGr+num/ and helps type fractions appropriately.
+(⁄) "Fraction Slash" can be typed with Ctrl+num/.
 
 (×) "Multiplication Sign" can be typed with Shift+num*.
 (⋅) "Dot Operator" can be typed with ctrlt+num* which is another way to write multiplication.
