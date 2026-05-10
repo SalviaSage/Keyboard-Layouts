@@ -3,7 +3,7 @@ Keyboard Layouts — Help Documentation;
 These are the computer programs that I made for typing in different languages and alphabets.
 These programs re-arrange the letters on the keyboard with other letters.
 
-The way they work is that I assign the letters found in the alphabet to where they should be on the keyboard.
+I assign the letters found in alphabets to where they should be on the keyboard.
 For example, in the Arabic Typer, the letter 'ل' (lām) is located at the 'L' key.
 In the Cyrillic Typer, pressing the same key will give the letter 'л'.
 This is a necessary feature to facilitate typing.
@@ -14,12 +14,12 @@ I make a separate computer program for every Unicode block.
 
 For example, Russian, Belarusian, and Ukrainian are all written with the Cyrillic alphabet.
 I do not make separate programs for each.
-I make one computer program that types Cyrillic without any missing letters for a given geographical area.
+I make one computer program that types that alphabet without any missing letters for a given geographical area.
 Of course, it does not cover all the letters and letter variants used in other Cyrillic alphabets, for example, Serbian and Macedonian.
 To address this issue, I either have to develop another program which will cover the needs of that particular language or create IMEs (Input Method Editors).
 Input Method Editors are the only viable method for writing systems where there are too many characters that can not fit on a 104-key keyboard.
 
-I do not make only keyboard layout programs, but also other programs that work in tandem with these programs to give the typist the best typing experience.
+I do not only make keyboard layout programs, but also other programs that work in tandem with these programs to give typists the best typing experience.
 
 Below is a keyboard typing guide and a hotkey guide for the Windows 10 21H1 version.
 I can not guarantee its correctness in versions below 21H1. It may have been changed.
@@ -27,14 +27,14 @@ I can not guarantee its correctness in versions below 21H1. It may have been cha
 CTRL + LEFT SHIFT: Cycles the keyboard layouts downwards within the same language, and does not switch languages.
 CTRL + RIGHT SHIFT: Cycles the keyboard layouts upwards within the same language, does not switch languages.
 
-WINDOWS KEY + SPACE: Cycles all of the keyboard layouts, across languages as well.
+WINKEY + SPACE: Cycles all of the keyboard layouts, across languages as well.
 
 ALT + LEFT SHIFT: Cycles languages downwards, not the keyboard layouts.
 ALT + RIGHT SHIFT: Cycles languages upwards, not the keyboard layouts.
 
-WINDOWS KEY + ;: Windows key + the semicolon key opens the emoji menu where we can type emojis, kaomojis, emoticons and also various symbols and letters from Unicode.
+WINKEY + (;): Windows key + the semicolon key opens the emoji menu where we can type emojis, kaomojis, emoticons and also various symbols and letters from Unicode.
 
-WINDOWS KEY + CTRL + O: Pressing this will turn on the On-Screen Keyboard, so the keyboard can be utilised using the mouse.
+WINKEY + CTRL + O: Pressing this will turn on the On-Screen Keyboard, so the keyboard can be utilised using the mouse.
 Pressing it again will turn it off.
 
 SHIFT KEY, pressed 5 times: This will trigger a window which asks you if you want to turn on the "sticky keys" functionality of Windows.
@@ -53,7 +53,7 @@ That is how I learned of these shortcuts in Windows 10.
 It can be turned off by holding the right shift key for 8 seconds and clicking "Disable this keyboard shortcut" in the "Ease of Access" keyboard settings".
 
 There is also the "MouseKeys" feature, which allows us to use the mouse through the keyboard numpad.
-This, however, makes it so that the numpad can not be used when it is turned on.
+This, however, makes it so that the numpad cannot be used when it is turned on.
 
 	How to uninstall / remove keyboard layouts?
 1) Click on the name of the language on the language bar such as "ENG US" Then, click on "Language Preferences".
@@ -88,7 +88,7 @@ If the scroll lock is turned on, we scroll horizontally when we hit the arrow ke
 If it is turned off, we go to the next cell by using the arrow keys on the keyboard.
 
 	How to lock the keyboard or the mouse keys?
-This free program is definitely what you are looking for:
+This free computer program is definitely what you are looking for:
 https://www.sordum.org/7921/
 
 	What is a faster way to switch between keyboard layouts?
@@ -96,9 +96,10 @@ You can skip choosing a layout from the language menu by directly switching to t
 This won't give you any visuals, but it will immediately switch to that layout upon hitting those hotkeys.
 It is the fastest way of going between different layouts.
 To set up such hotkeys, open the settings window from the start menu or by hitting WinKey+I and go to "Time & Language", then click "Language" on the menu to the left.
-Then, click on "keyboard", then click on "Input language hot keys". There, you can see a list of all the keyboard layouts that are installed.
+Then, click on "keyboard", then click on "Input language hot keys".
+There, you can see a list of all the keyboard layouts that are installed.
 Select a layout and click on "Change Key Sequence" and pick which key keys you want to associate with that layout.
-I recommend using the CTRL + ~ key for your default keyboard layout, likely the US QWERTY layout, and the CTRL + # keys for fast switching to other layouts.
+I recommend using the Ctrl + (1) key for your default keyboard layout, likely the US QWERTY layout, and the Ctrl + # keys for fast switching to other layouts.
 These seem to not interfere with other programs when pressed and yet quickly switch between keyboard layouts.
 
 	How to set up the Text Services and Input Languages?
@@ -118,6 +119,6 @@ Left to right: Control+Left Shift (default)
 This is one of the most important hotkeys to keep in mind when working with right-to-left scripts.
 NOTE: These hotkeys do not work on Windows 11 unless a right-to-left language such as Arabic or Hebrew is installed at the "Language & region" window.
 
-Signed ﻿;  
+Signed;  
 	𝓞.﻿ ﻿𝓞𝔃𝓽𝓮𝓴𝓲𝓷
 
