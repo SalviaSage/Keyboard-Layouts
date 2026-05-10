@@ -51,20 +51,20 @@ Hitting (0) while holding AltGr gives [)]
 
 Capitalisation is done as normal with CapsLock and Shift.
 
-The letter (һ|Һ) is not a part of the Serbian Cyrillic alphabet.
-However, it represents an important sound that is otherwise not covered by this alphabet, represented by the letter (h|H) in the Latin alphabet.
+The letter (һ | Һ) is not a part of the Serbian Cyrillic alphabet.
+However, it represents an important sound that is otherwise not covered by this alphabet, represented by the letter (h | H) in the Latin alphabet.
 
 The numbers are typed from the numpad. The top row number keys are assigned to Cyrillic letters.
-	The numbers can also be typed by pressing ctrl + shift + top row number keys.
+	The numbers can also be typed by pressing Ctrl + Shift + top row number keys.
 The symbols on the top row number keys !@#$%^&*()= can be typed by pressing the AltGr + 1234567890 keys.
 
-The hyphen is typed by pressing the ( \ ) key located under the backspace key.
+The hyphen is typed by pressing the (\) key located under the backspace key.
 The parentheses can be typed with the last two keys next to the hyphen key.
-The non-breaking hyphen is typed by pressing shift + ( \ ) key located under the backspace key.
-The dash key is typed by pressing Ctrl + ( \ ) key located under the backspace key.
+The non-breaking hyphen is typed by pressing Shift + (\) key located under the backspace key.
+The dash key is typed by pressing Ctrl + (\) key located under the backspace key.
 
-The acute accent, which can be combined with vowels to mark stress is typed by pressing control+space.
-The grave accent can be typed by pressing control+shift+space.
+The acute accent, which can be combined with vowels to mark stress is typed by pressing Ctrl + Space.
+The grave accent can be typed by pressing Ctrl + Shift + Space.
 
 Please look at the screenshot provided to see where all the keys are.
 
