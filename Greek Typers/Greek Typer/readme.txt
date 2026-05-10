@@ -39,4 +39,4 @@ The "Lower Numeral Sign" is used to mark thousands and is supposed to be used BE
 ͵Α ͵β ,Γ ͵Δ ͵Ε ͵Ϛ ͵Ζ ͵Η ͵Θ ͵Ι
 
 Another practice is to type the combining overline over letters, which can be typed by AltGr + Numpad(0).
-̅Α̅β̅Γ̅Δ̅
+̅Α̅β̅Γ̅Δ
