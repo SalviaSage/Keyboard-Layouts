@@ -35,26 +35,26 @@ Hitting (Y) gives (ы | Ы) while holding RightAlt gives (ӯ | Ӯ)
 Hitting (1) gives (ю | Ю) while holding RightAlt gives (!)
 Hitting (2) gives (щ | Щ) while holding RightAlt gives (@)
 Hitting (3) gives (э | Э) while holding RightAlt gives (#)
-Hitting (4) gives (ә | Ә) while holding RightAlt gives ($) shift+RightAlt gives (₽)
+Hitting (4) gives (ә | Ә) while holding RightAlt gives ($) Shift + RightAlt gives (₽)
 Hitting (5) gives (ч | Ч) while holding RightAlt gives (%)
 Hitting (6) gives (ҹ | Ҹ) while holding RightAlt gives (^)
 Hitting (7) gives (ү | Ү) while holding RightAlt gives (&)
 Hitting (8) gives (ұ | Ұ) while holding RightAlt gives (*)
 Hitting (9) gives (і | І) while holding RightAlt gives (ї | Ї)
-Hitting (0) gives (ө | Ө) while holding RightAlt gives (һ) shift+RightAlt gives (Һ)
+Hitting (0) gives (ө | Ө) while holding RightAlt gives (һ | Һ) Shift + RightAlt gives (Һ)
 
 Hitting (-) gives (ъ | Ъ)
 Hitting (=) gives (ь | Ь)
 
-Capitalisation is done as normal with CapsLock and Shift.
+Capitalisation is done as normal with Caps Lock and Shift.
 
 The number keys can only be typed from the numpad because the top row number keys are assigned to extra Cyrillic letters.
-The symbols on the top row number keys !@#$%^&* can still be typed by pressing the shift+capslock+12345678 keys.
+The symbols on the top row number keys !@#$%^&* can still be typed by pressing the Shift + Caps Lock + 12345678 keys.
 
-The hyphen is typed by pressing the ( \ ) key located under the backspace key.
+The hyphen is typed by pressing the (\) key located under the backspace key.
 The parentheses can be typed with the last two keys next to the hyphen key.
-The non-breaking hyphen is typed by pressing shift + ( \ ) key located under the backspace key.
-The dash key is typed by pressing Ctrl + ( \ ) key located under the backspace key.
+The non-breaking hyphen is typed by pressing Shift + (\) key located under the backspace key.
+The dash key is typed by pressing Ctrl + (\) key located under the backspace key.
 
 Please look at the screenshot provided to see where all the keys are.
 
