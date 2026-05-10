@@ -5,7 +5,7 @@ https://github.com/SalviaSage/Autohotkey-Scripts-Repository/tree/master/Typing%2
 
 Also, you should have the Hotstrings.exe running in the background with my custom library loaded and enabled in there.
 This library helps correct and automate some vowel maatra mistakes and replace the maatras with independent vowels at the start of words:
-https://github.com/SalviaSage/Custom-Libraries/blob/main/Maatra%20Helpers/(Maatra%20Helper)%20Bengali.csv
+https://github.com/SalviaSage/Custom-Libraries/blob/main/Character%20Replacers/Indic/Bengali%20Vowel%20Helper.csv
 
 The base keys have the consonants and the maatra (combining forms) of the vowels.
 If you hit the shift key + vowel key you get long maatra vowels instead.
