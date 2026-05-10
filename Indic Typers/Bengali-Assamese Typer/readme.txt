@@ -1,7 +1,7 @@
 Bengali-Assamese Typer;
 
 You should use the toggleable caps lock script, found here for better typing:
-https://github.com/SalviaSage/Autohotkey-Scripts-Repository/tree/master/Typing%20Scripts/Holdable%20Caps%20Lock
+https://github.com/SalviaSage/Autohotkey-Scripts-Repository/tree/master/Typing%20Scripts/Holdable%20CapsLock
 
 Also, you should have the Hotstrings.exe running in the background with my custom library loaded and enabled in there.
 This library helps correct and automate some vowel maatra mistakes and replace the maatras with independent vowels at the start of words:
