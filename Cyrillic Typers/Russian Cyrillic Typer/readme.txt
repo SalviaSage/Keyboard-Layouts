@@ -90,4 +90,5 @@ To type the diacritics in order, the number key has to be tapped and held, tap o
 The conjoining titlo has to be used with the zero-width space, for which this program already accounts.
 Otherwise, it does not work correctly.
 
-The "pokrytie" is the appropriate diacritic to be used for the combining superscript covering which can be seen in some original manuscripts written in early Slavonic. However, when this is attempted on the computer, it does not work and breaks the base letters.
+The "pokrytie" is the appropriate diacritic to be used for the combining superscript covering which can be seen in some original manuscripts written in early Slavonic.
+However, when this is attempted on the computer, it does not work and breaks the base letters.
