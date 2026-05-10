@@ -1,0 +1,15 @@
+List of Korean fonts on Windows;
+
+Batang
+BatangChe
+
+Dotum
+DotumChe
+
+Gulim
+GulimChe
+
+Gongsuh
+GongsuhChe
+
+Malgun Gothic
