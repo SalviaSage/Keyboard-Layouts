@@ -162,6 +162,6 @@ AltGr + S: ß (German)
 AltGr + W: ƿ/Ƿ (Old English)
 
 	• Other Features:
-Shift + Ctrl + \ types the broken bar (¦).
-AltGr \ types the double vertical line (‖).
-AltGr + Shift \ types the rightwards arrow (→).
+(‖) AltGr (\): double vertical line
+(¦) Shift + Ctrl + (\): broken bar
+(→) AltGr + Shift (\): rightwards arrow
