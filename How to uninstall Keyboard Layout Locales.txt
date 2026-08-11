@@ -1,0 +1,11 @@
+If you see two Locales such as:
+
+English (US)
+English (Canada)
+
+This is caused by having a different region format than what the computer uses.
+To remove them, you have to make sure that the format matches the computer locale.
+
+Open the "region" window from the control panel.
+Select Format: English (United States)
+Click Apply.
