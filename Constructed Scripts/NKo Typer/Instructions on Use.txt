@@ -1,0 +1,4 @@
+Go to Windows 11 Settings -> Time & Language -> Add a language
+Search for "Mandinka" and install it.
+
+After that, install the keyboard layout.
