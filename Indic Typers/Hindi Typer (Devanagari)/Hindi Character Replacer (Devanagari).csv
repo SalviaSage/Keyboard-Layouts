@@ -1,0 +1,11 @@
+﻿;; Hindi Devanagari Character Replacer
+
+*?OZ‖.‖SI‖En‖{U+0964}‖replaces full stops (.) with the danda - Automatic Replace
+
+*?OZ‖?‖SI‖En‖{U+202F}{U+003F}‖nnbsp+question mark - Automatic Replace
+*?OZ‖!‖SI‖En‖{U+202F}{U+0021}‖nnbsp+exclamation mark - Automatic Replace
+
+*?OZ‖"‖SI‖En‖{U+0022}{U+202F}{U+202F}{U+0022}{Left}{Left}‖nnbsp quotation marks - Automatic Replace
+
+*?OZ‖(‖SI‖En‖{U+0028}{U+202F}{U+202F}{U+0029}{Left}{Left}‖nnbsp quotation marks - Automatic Replace
+*?OZ‖)‖SI‖En‖{U+0028}{U+202F}{U+202F}{U+0029}{Left}{Left}‖nnbsp quotation marks - Automatic Replace
