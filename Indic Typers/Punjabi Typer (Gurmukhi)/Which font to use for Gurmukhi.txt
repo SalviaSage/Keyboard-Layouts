@@ -1,0 +1,2 @@
+"Raavi" is the recommended font for use with the Gurmukhi script on Windows.
+It is included in the "Gurmukhi Supplemental Fonts" as an optional Windows feature.
